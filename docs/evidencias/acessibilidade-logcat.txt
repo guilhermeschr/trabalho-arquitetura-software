@@ -1,0 +1,2 @@
+--------- beginning of main
+11-15 15:49:05.502 14573 14595 I NewsDemoAccessibility: verified_controls=5;passed=5;minimum_dp=48

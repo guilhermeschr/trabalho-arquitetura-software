@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-15",
+  "steps": [
+    "lista exibida",
+    "favorito salvo nos detalhes",
+    "favorito exibido em outra tela",
+    "favorito preservado após force-stop e reabertura",
+    "remoção atualiza lista vazia",
+    "lista principal reflete remoção"
+  ],
+  "passed": true,
+  "persistence_after_process_restart": true,
+  "memory_pss_kib": 126658,
+  "memory_pss_mib": 123.689453125,
+  "memory_context": "após navegar por lista/detalhes/favoritos, reabrir processo e remover favorito; build debug; uma amostra"
+}

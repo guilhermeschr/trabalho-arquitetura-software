@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-15",
+  "reference_commit": "2982e63cb691ad49cd009aab43dc206fee6699c2",
+  "unit": {
+    "tests": 36,
+    "suites": [
+      {
+        "suite": "br.edu.arquitetura.newsdemo.core.data.RepositoryTest",
+        "tests": 5,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 0.109
+      },
+      {
+        "suite": "br.edu.arquitetura.newsdemo.core.domain.ObserveNewsWithFavoritesUseCaseTest",
+        "tests": 5,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 0.034
+      },
+      {
+        "suite": "br.edu.arquitetura.newsdemo.feature.favorites.FavoritesViewModelTest",
+        "tests": 9,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 0.144
+      },
+      {
+        "suite": "br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest",
+        "tests": 9,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 0.14
+      },
+      {
+        "suite": "br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest",
+        "tests": 8,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 0.016
+      }
+    ],
+    "execution": {
+      "command": "./gradlew testDebugUnitTest --console=plain",
+      "exit_code": 0,
+      "wall_seconds": 5.3625331670000005,
+      "context": "Gradle daemon ativo e dependências resolvidas; verificar log para tarefas executadas e cache"
+    }
+  },
+  "instrumented": {
+    "tests": 6,
+    "suites": [
+      {
+        "suite": "br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest",
+        "tests": 4,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 1.308
+      },
+      {
+        "suite": "br.edu.arquitetura.newsdemo.app.NewsAppTest",
+        "tests": 2,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "time_seconds": 23.613
+      }
+    ]
+  },
+  "fake_tested_classes": [
+    "ObserveNewsWithFavoritesUseCase",
+    "RoomFavoritesRepository",
+    "NewsViewModel",
+    "NewsDetailViewModel",
+    "FavoritesViewModel"
+  ],
+  "architecture": {
+    "modules": {
+      ":app": [
+        ":core",
+        ":feature:news",
+        ":feature:favorites"
+      ],
+      ":core": [],
+      ":feature:news": [
+        ":core"
+      ],
+      ":feature:favorites": [
+        ":core"
+      ]
+    },
+    "cycles": [],
+    "cycle_count": 0,
+    "feature_edges": [],
+    "feature_edge_count": 0,
+    "forbidden_persistence_references": [],
+    "forbidden_reference_count": 0,
+    "scope": "dependências project(...) e referências textuais aos tipos de persistência; não é uma prova geral de manutenibilidade"
+  },
+  "startup": {
+    "date": "2026-11-15",
+    "apk": "debug",
+    "measurement": "am start -W TotalTime; processo encerrado antes de cada amostra; cache de disco preservado",
+    "warmup_excluded": 1,
+    "samples_ms": [
+      2910,
+      3132,
+      3298,
+      3058,
+      3226,
+      3714,
+      2915,
+      2886,
+      3011,
+      3370
+    ],
+    "median_ms": 3095.0,
+    "min_ms": 2886,
+    "max_ms": 3714,
+    "device": "sdk_gphone64_arm64",
+    "android": "16",
+    "api": "36",
+    "abi": "arm64-v8a",
+    "raw": [
+      {
+        "iteration": 0,
+        "warmup": true,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 4518\nWaitTime: 4531\nComplete\n"
+      },
+      {
+        "iteration": 1,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 2910\nWaitTime: 2953\nComplete\n"
+      },
+      {
+        "iteration": 2,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3132\nWaitTime: 3165\nComplete\n"
+      },
+      {
+        "iteration": 3,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3298\nWaitTime: 3370\nComplete\n"
+      },
+      {
+        "iteration": 4,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3058\nWaitTime: 3094\nComplete\n"
+      },
+      {
+        "iteration": 5,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3226\nWaitTime: 3287\nComplete\n"
+      },
+      {
+        "iteration": 6,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3714\nWaitTime: 3751\nComplete\n"
+      },
+      {
+        "iteration": 7,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 2915\nWaitTime: 2951\nComplete\n"
+      },
+      {
+        "iteration": 8,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 2886\nWaitTime: 2944\nComplete\n"
+      },
+      {
+        "iteration": 9,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3011\nWaitTime: 3057\nComplete\n"
+      },
+      {
+        "iteration": 10,
+        "warmup": false,
+        "output": "Starting: Intent { cmp=br.edu.arquitetura.newsdemo/.app.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: br.edu.arquitetura.newsdemo/.app.MainActivity\nTotalTime: 3370\nWaitTime: 3378\nComplete\n"
+      }
+    ]
+  },
+  "favorite_latency": {
+    "samples_ms": [
+      10.830458,
+      10.102958,
+      57.981667,
+      13.3435,
+      11.052125,
+      9.869125,
+      10.588458,
+      3.428417,
+      3.479375,
+      4.920125
+    ],
+    "median_ms": 10.345707999999998,
+    "min_ms": 3.428417,
+    "max_ms": 57.981667,
+    "context": "Room em memória; coletor ativo; tempo entre gravação e emissão combinada; última execução instrumentada"
+  },
+  "demo": {
+    "date": "2026-11-15",
+    "steps": [
+      "lista exibida",
+      "favorito salvo nos detalhes",
+      "favorito exibido em outra tela",
+      "favorito preservado após force-stop e reabertura",
+      "remoção atualiza lista vazia",
+      "lista principal reflete remoção"
+    ],
+    "passed": true,
+    "persistence_after_process_restart": true,
+    "memory_pss_kib": 126658,
+    "memory_pss_mib": 123.689453125,
+    "memory_context": "após navegar por lista/detalhes/favoritos, reabrir processo e remover favorito; build debug; uma amostra"
+  },
+  "accessibility": {
+    "checked_controls": [
+      "marcador-lista",
+      "aba-noticias",
+      "aba-favoritos",
+      "marcador-detalhes",
+      "voltar"
+    ],
+    "passed": 5,
+    "total": 5,
+    "minimum_dp": 48,
+    "evidence": "acessibilidade-logcat.txt e teste Compose aprovado"
+  },
+  "limitations": [
+    "Sem execução do Now in Android original",
+    "APK debug em um emulador ARM64; sem comparação causal",
+    "Sem participantes reais para avaliação de usabilidade",
+    "PSS pontual; latência Room em memória não inclui renderização"
+  ]
+}

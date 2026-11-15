@@ -1,0 +1,84 @@
+[
+  {
+    "sha": "9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+    "node_id": "C_kwDOHNAj7toAKDkzOThlYTc3ZDllZTEyMDljZjYwMjVlYmNhYTIxYWQyZTEzYWFjNDk",
+    "commit": {
+      "author": {
+        "name": "oaraz",
+        "email": "oaraz@google.com",
+        "date": "2026-10-16T00:00:57Z"
+      },
+      "committer": {
+        "name": "oaraz",
+        "email": "oaraz@google.com",
+        "date": "2026-10-16T17:50:55Z"
+      },
+      "message": "Integrate Navigation 3 deep linking.\n\n- Updated Navigation 3 library to 1.2.0 (with compileSdk 37 and minSdk 24) to support the Navigation 3 deep link APIs.\n- Converted ForYouNavKey into a data class with an optional linkedNewsResourceId parameter, match incoming deep link intents in MainActivity using UriDeepLinkMatcher, and pass the matched key through rememberNiaAppState and rememberNavigationState to initialize the starting sub-stack.\n- Passed ForYouNavKey to ForYouViewModel via assisted injection so deepLinkedNewsResource is initialized from the navigation key.\n- Added NavigationState.isAtTopLevel to keep the top app bar visible and handle back navigation when the root of a sub-stack is a deep link key.",
+      "tree": {
+        "sha": "83650553ea17c41794eff36c317e8ab408835c26",
+        "url": "https://api.github.com/repos/android/nowinandroid/git/trees/83650553ea17c41794eff36c317e8ab408835c26"
+      },
+      "url": "https://api.github.com/repos/android/nowinandroid/git/commits/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/android/nowinandroid/commits/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+    "html_url": "https://github.com/android/nowinandroid/commit/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+    "comments_url": "https://api.github.com/repos/android/nowinandroid/commits/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49/comments",
+    "author": {
+      "login": "arazosman",
+      "id": 20776143,
+      "node_id": "MDQ6VXNlcjIwNzc2MTQz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20776143?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/arazosman",
+      "html_url": "https://github.com/arazosman",
+      "followers_url": "https://api.github.com/users/arazosman/followers",
+      "following_url": "https://api.github.com/users/arazosman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/arazosman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/arazosman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/arazosman/subscriptions",
+      "organizations_url": "https://api.github.com/users/arazosman/orgs",
+      "repos_url": "https://api.github.com/users/arazosman/repos",
+      "events_url": "https://api.github.com/users/arazosman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/arazosman/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "arazosman",
+      "id": 20776143,
+      "node_id": "MDQ6VXNlcjIwNzc2MTQz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20776143?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/arazosman",
+      "html_url": "https://github.com/arazosman",
+      "followers_url": "https://api.github.com/users/arazosman/followers",
+      "following_url": "https://api.github.com/users/arazosman/following{/other_user}",
+      "gists_url": "https://api.github.com/users/arazosman/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/arazosman/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/arazosman/subscriptions",
+      "organizations_url": "https://api.github.com/users/arazosman/orgs",
+      "repos_url": "https://api.github.com/users/arazosman/repos",
+      "events_url": "https://api.github.com/users/arazosman/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/arazosman/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+        "url": "https://api.github.com/repos/android/nowinandroid/commits/a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+        "html_url": "https://github.com/android/nowinandroid/commit/a49ed253d75e61a2b6ab80a8da677b57437b08eb"
+      }
+    ]
+  }
+]

@@ -1,0 +1,346 @@
+{
+  "sha": "2982e63cb691ad49cd009aab43dc206fee6699c2",
+  "node_id": "C_kwDOHNAj7toAKDI5ODJlNjNjYjY5MWFkNDljZDAwOWFhYjQzZGMyMDZmZWU2Njk5YzI",
+  "commit": {
+    "author": {
+      "name": "Ian Lake",
+      "email": "ian.hannibal.lake@gmail.com",
+      "date": "2026-10-20T23:08:43Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-10-20T23:08:43Z"
+    },
+    "message": "Merge pull request #2142 from arazosman/nav3DeepLink\n\nIntegrate Navigation 3 deep linking.",
+    "tree": {
+      "sha": "83650553ea17c41794eff36c317e8ab408835c26",
+      "url": "https://api.github.com/repos/android/nowinandroid/git/trees/83650553ea17c41794eff36c317e8ab408835c26"
+    },
+    "url": "https://api.github.com/repos/android/nowinandroid/git/commits/2982e63cb691ad49cd009aab43dc206fee6699c2",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq1/R7CRC1aQ7uu5UhlAAAe1EQACrrcw8ThJum4DWjmYjxmUM+\nYa50OREwmGUZzKTq4FdWbcRlfjE9UZIEYNmYgYDAMRkwW2M/PAycu5wSoz0+xlcn\nDSYS92uUv9SDjcxmzASCAGl0Uw3Mm84gxdnHrPPxMCCiRl6RVtKk6sW/eWc8MLWT\nHmwfi849APudOowEVUVtLYZXUka9izWiGTAupzRtDyN3/UmUGJ7AXrEEkOsMAUKy\n/E+Hb4b6q91PMVGN9fAQ7IQ52TyQuCKceuGtm1uB5LRzvEmCY1SoigiIB4k4zOrN\n9V70VPAAux0VWG8FoOVnUiI2nKrG6kJ98xPDTtYvblj0fyjP8rlo3DRceqFHs/Zb\nynKxNyXjdt38skbeLexofPKYB4ITJ/updrWJfLxBSUCXzbMLw6OxPrjQkk/OlCZR\nhK1znPLz4/iyE5yf0euTFWsG5O8MvjTItpW7PT2ewiIJCC4uPG/hB5X8u+t2EwQl\n7+DPbKrOAFgaCtukYIfTTKAEXH2BwqXoqcC24/9XuXNJxrNxsCmnFTyTkJRbtDcj\nfikNWVe07W3zKH1o0KhDGirZYdk/Dtvd7MmivbWHQquBBS1dRLVevgMX62vADEZz\n04MLH78CVaF9bmw1DdeLiXEAWX1VXyMDX/LgWf2SguiX8J2AbK2ovQs34gYCIwKi\n0JZOPl0Q1THHMT6dNpRz\n=pW3Y\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 83650553ea17c41794eff36c317e8ab408835c26\nparent a49ed253d75e61a2b6ab80a8da677b57437b08eb\nparent 9398ea77d9ee1209cf6025ebcaa21ad2e13aac49\nauthor Ian Lake <ian.hannibal.lake@gmail.com> 1792537723 -0700\ncommitter GitHub <noreply@github.com> 1792537723 -0700\n\nMerge pull request #2142 from arazosman/nav3DeepLink\n\nIntegrate Navigation 3 deep linking.",
+      "verified_at": "2026-10-20T23:08:44Z"
+    }
+  },
+  "url": "https://api.github.com/repos/android/nowinandroid/commits/2982e63cb691ad49cd009aab43dc206fee6699c2",
+  "html_url": "https://github.com/android/nowinandroid/commit/2982e63cb691ad49cd009aab43dc206fee6699c2",
+  "comments_url": "https://api.github.com/repos/android/nowinandroid/commits/2982e63cb691ad49cd009aab43dc206fee6699c2/comments",
+  "author": {
+    "login": "ianhanniballake",
+    "id": 517315,
+    "node_id": "MDQ6VXNlcjUxNzMxNQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/517315?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ianhanniballake",
+    "html_url": "https://github.com/ianhanniballake",
+    "followers_url": "https://api.github.com/users/ianhanniballake/followers",
+    "following_url": "https://api.github.com/users/ianhanniballake/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ianhanniballake/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ianhanniballake/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ianhanniballake/subscriptions",
+    "organizations_url": "https://api.github.com/users/ianhanniballake/orgs",
+    "repos_url": "https://api.github.com/users/ianhanniballake/repos",
+    "events_url": "https://api.github.com/users/ianhanniballake/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ianhanniballake/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+      "url": "https://api.github.com/repos/android/nowinandroid/commits/a49ed253d75e61a2b6ab80a8da677b57437b08eb",
+      "html_url": "https://github.com/android/nowinandroid/commit/a49ed253d75e61a2b6ab80a8da677b57437b08eb"
+    },
+    {
+      "sha": "9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+      "url": "https://api.github.com/repos/android/nowinandroid/commits/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49",
+      "html_url": "https://github.com/android/nowinandroid/commit/9398ea77d9ee1209cf6025ebcaa21ad2e13aac49"
+    }
+  ],
+  "stats": {
+    "total": 313,
+    "additions": 190,
+    "deletions": 123
+  },
+  "files": [
+    {
+      "sha": "041fe8c8309d62e225e405d4d45e33f7b7fb8eb8",
+      "filename": "app/build.gradle.kts",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fbuild.gradle.kts",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fbuild.gradle.kts",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fbuild.gradle.kts?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -84,6 +84,7 @@ dependencies {\n     implementation(projects.core.data)\n     implementation(projects.core.model)\n     implementation(projects.core.analytics)\n+    implementation(projects.core.notifications)\n     implementation(projects.sync.work)\n \n     implementation(libs.androidx.activity.compose)"
+    },
+    {
+      "sha": "f79b895ad47fe58a2a7f849d35d68f4b222dc01b",
+      "filename": "app/dependencies/prodReleaseRuntimeClasspath.txt",
+      "status": "modified",
+      "additions": 40,
+      "deletions": 40,
+      "changes": 80,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fdependencies%2FprodReleaseRuntimeClasspath.txt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fdependencies%2FprodReleaseRuntimeClasspath.txt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fdependencies%2FprodReleaseRuntimeClasspath.txt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -13,14 +13,14 @@ androidx.browser:browser:1.8.0\n androidx.collection:collection-jvm:1.5.0\n androidx.collection:collection-ktx:1.5.0\n androidx.collection:collection:1.5.0\n-androidx.compose.animation:animation-android:1.10.0-beta02\n-androidx.compose.animation:animation-core-android:1.10.0-beta02\n-androidx.compose.animation:animation-core:1.10.0-beta02\n-androidx.compose.animation:animation:1.10.0-beta02\n-androidx.compose.foundation:foundation-android:1.10.0-beta02\n-androidx.compose.foundation:foundation-layout-android:1.10.0-beta02\n-androidx.compose.foundation:foundation-layout:1.10.0-beta02\n-androidx.compose.foundation:foundation:1.10.0-beta02\n+androidx.compose.animation:animation-android:1.10.0\n+androidx.compose.animation:animation-core-android:1.10.0\n+androidx.compose.animation:animation-core:1.10.0\n+androidx.compose.animation:animation:1.10.0\n+androidx.compose.foundation:foundation-android:1.10.0\n+androidx.compose.foundation:foundation-layout-android:1.10.0\n+androidx.compose.foundation:foundation-layout:1.10.0\n+androidx.compose.foundation:foundation:1.10.0\n androidx.compose.material3.adaptive:adaptive-android:1.3.0-alpha04\n androidx.compose.material3.adaptive:adaptive-layout-android:1.3.0-alpha04\n androidx.compose.material3.adaptive:adaptive-layout:1.3.0-alpha04\n@@ -41,29 +41,29 @@ androidx.compose.material:material-icons-extended-android:1.7.8\n androidx.compose.material:material-icons-extended:1.7.8\n androidx.compose.material:material-ripple-android:1.10.0-alpha04\n androidx.compose.material:material-ripple:1.10.0-alpha04\n-androidx.compose.runtime:runtime-android:1.10.0-beta02\n-androidx.compose.runtime:runtime-annotation-android:1.10.0-beta02\n-androidx.compose.runtime:runtime-annotation:1.10.0-beta02\n-androidx.compose.runtime:runtime-retain-android:1.10.0-beta02\n-androidx.compose.runtime:runtime-retain:1.10.0-beta02\n-androidx.compose.runtime:runtime-saveable-android:1.10.0-beta02\n-androidx.compose.runtime:runtime-saveable:1.10.0-beta02\n-androidx.compose.runtime:runtime-tracing:1.10.0-beta02\n-androidx.compose.runtime:runtime:1.10.0-beta02\n-androidx.compose.ui:ui-android:1.10.0-beta02\n-androidx.compose.ui:ui-geometry-android:1.10.0-beta02\n-androidx.compose.ui:ui-geometry:1.10.0-beta02\n-androidx.compose.ui:ui-graphics-android:1.10.0-beta02\n-androidx.compose.ui:ui-graphics:1.10.0-beta02\n-androidx.compose.ui:ui-text-android:1.10.0-beta02\n-androidx.compose.ui:ui-text:1.10.0-beta02\n-androidx.compose.ui:ui-tooling-preview-android:1.10.0-beta02\n-androidx.compose.ui:ui-tooling-preview:1.10.0-beta02\n-androidx.compose.ui:ui-unit-android:1.10.0-beta02\n-androidx.compose.ui:ui-unit:1.10.0-beta02\n-androidx.compose.ui:ui-util-android:1.10.0-beta02\n-androidx.compose.ui:ui-util:1.10.0-beta02\n-androidx.compose.ui:ui:1.10.0-beta02\n+androidx.compose.runtime:runtime-android:1.11.0-rc01\n+androidx.compose.runtime:runtime-annotation-android:1.11.0-rc01\n+androidx.compose.runtime:runtime-annotation:1.11.0-rc01\n+androidx.compose.runtime:runtime-retain-android:1.11.0-rc01\n+androidx.compose.runtime:runtime-retain:1.11.0-rc01\n+androidx.compose.runtime:runtime-saveable-android:1.11.0-rc01\n+androidx.compose.runtime:runtime-saveable:1.11.0-rc01\n+androidx.compose.runtime:runtime-tracing:1.11.0-rc01\n+androidx.compose.runtime:runtime:1.11.0-rc01\n+androidx.compose.ui:ui-android:1.11.0-rc01\n+androidx.compose.ui:ui-geometry-android:1.11.0-rc01\n+androidx.compose.ui:ui-geometry:1.11.0-rc01\n+androidx.compose.ui:ui-graphics-android:1.11.0-rc01\n+androidx.compose.ui:ui-graphics:1.11.0-rc01\n+androidx.compose.ui:ui-text-android:1.11.0-rc01\n+androidx.compose.ui:ui-text:1.11.0-rc01\n+androidx.compose.ui:ui-tooling-preview-android:1.11.0-rc01\n+androidx.compose.ui:ui-tooling-preview:1.11.0-rc01\n+androidx.compose.ui:ui-unit-android:1.11.0-rc01\n+androidx.compose.ui:ui-unit:1.11.0-rc01\n+androidx.compose.ui:ui-util-android:1.11.0-rc01\n+androidx.compose.ui:ui-util:1.11.0-rc01\n+androidx.compose.ui:ui:1.11.0-rc01\n androidx.compose:compose-bom-alpha:2025.09.01\n androidx.concurrent:concurrent-futures-ktx:1.1.0\n androidx.concurrent:concurrent-futures:1.1.0\n@@ -128,14 +128,14 @@ androidx.lifecycle:lifecycle-viewmodel:2.10.0\n androidx.loader:loader:1.0.0\n androidx.localbroadcastmanager:localbroadcastmanager:1.0.0\n androidx.metrics:metrics-performance:1.0.0-beta01\n-androidx.navigation3:navigation3-runtime-android:1.0.0\n-androidx.navigation3:navigation3-runtime:1.0.0\n-androidx.navigation3:navigation3-ui-android:1.0.0\n-androidx.navigation3:navigation3-ui:1.0.0\n-androidx.navigationevent:navigationevent-android:1.0.0\n-androidx.navigationevent:navigationevent-compose-android:1.0.0\n-androidx.navigationevent:navigationevent-compose:1.0.0\n-androidx.navigationevent:navigationevent:1.0.0\n+androidx.navigation3:navigation3-runtime-android:1.2.0\n+androidx.navigation3:navigation3-runtime:1.2.0\n+androidx.navigation3:navigation3-ui-android:1.2.0\n+androidx.navigation3:navigation3-ui:1.2.0\n+androidx.navigationevent:navigationevent-android:1.1.1\n+androidx.navigationevent:navigationevent-compose-android:1.1.1\n+androidx.navigationevent:navigationevent-compose:1.1.1\n+androidx.navigationevent:navigationevent:1.1.1\n androidx.print:print:1.0.0\n androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05\n androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05\n@@ -157,7 +157,7 @@ androidx.sqlite:sqlite-framework:2.6.1\n androidx.sqlite:sqlite:2.6.1\n androidx.startup:startup-runtime:1.1.1\n androidx.tracing:tracing-ktx:1.3.0-alpha02\n-androidx.tracing:tracing-perfetto:1.0.0\n+androidx.tracing:tracing-perfetto:1.0.1\n androidx.tracing:tracing:1.3.0-alpha02\n androidx.transition:transition:1.6.0\n androidx.vectordrawable:vectordrawable-animated:1.1.0"
+    },
+    {
+      "sha": "41e56327dc16bb873bd4d045ca377d3ec282e548",
+      "filename": "app/prodRelease-badging.txt",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 4,
+      "changes": 7,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2FprodRelease-badging.txt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2FprodRelease-badging.txt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2FprodRelease-badging.txt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -1,5 +1,5 @@\n-package: name='com.google.samples.apps.nowinandroid' versionCode='8' versionName='0.1.2' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'\n-minSdkVersion:'23'\n+package: name='com.google.samples.apps.nowinandroid' versionCode='8' versionName='0.1.2' platformBuildVersionName='17' platformBuildVersionCode='37' compileSdkVersion='37' compileSdkVersionCodename='17'\n+minSdkVersion:'24'\n targetSdkVersion:'36'\n uses-permission: name='android.permission.INTERNET'\n uses-permission: name='android.permission.ACCESS_NETWORK_STATE'\n@@ -96,7 +96,6 @@ application-label-zh-CN:'Now in Android'\n application-label-zh-HK:'Now in Android'\n application-label-zh-TW:'Now in Android'\n application-label-zu:'Now in Android'\n-application-icon-120:'res/mipmap-anydpi-v26/ic_launcher.xml'\n application-icon-160:'res/mipmap-anydpi-v26/ic_launcher.xml'\n application-icon-240:'res/mipmap-anydpi-v26/ic_launcher.xml'\n application-icon-320:'res/mipmap-anydpi-v26/ic_launcher.xml'\n@@ -118,5 +117,5 @@ other-services\n supports-screens: 'small' 'normal' 'large' 'xlarge'\n supports-any-density: 'true'\n locales: '--_--' 'af' 'am' 'ar' 'as' 'az' 'be' 'bg' 'bn' 'bs' 'ca' 'cs' 'da' 'de' 'el' 'en-AU' 'en-CA' 'en-GB' 'en-IN' 'en-XC' 'es' 'es-US' 'et' 'eu' 'fa' 'fi' 'fr' 'fr-CA' 'gl' 'gu' 'hi' 'hr' 'hu' 'hy' 'in' 'is' 'it' 'iw' 'ja' 'ka' 'kk' 'km' 'kn' 'ko' 'ky' 'lo' 'lt' 'lv' 'mk' 'ml' 'mn' 'mr' 'ms' 'my' 'nb' 'ne' 'nl' 'or' 'pa' 'pl' 'pt' 'pt-BR' 'pt-PT' 'ro' 'ru' 'si' 'sk' 'sl' 'sq' 'sr' 'sr-Latn' 'sv' 'sw' 'ta' 'te' 'th' 'tl' 'tr' 'uk' 'ur' 'uz' 'vi' 'zh-CN' 'zh-HK' 'zh-TW' 'zu'\n-densities: '120' '160' '240' '320' '480' '640' '65534'\n+densities: '160' '240' '320' '480' '640' '65534'\n native-code: 'arm64-v8a' 'armeabi-v7a' 'x86' 'x86_64'"
+    },
+    {
+      "sha": "6e8d4b9a9fa5853f9dd3aa7f7e27aac709e43348",
+      "filename": "app/src/main/kotlin/com/google/samples/apps/nowinandroid/MainActivity.kt",
+      "status": "modified",
+      "additions": 19,
+      "deletions": 0,
+      "changes": 19,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FMainActivity.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FMainActivity.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FMainActivity.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -32,6 +32,9 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle\n import androidx.lifecycle.lifecycleScope\n import androidx.lifecycle.repeatOnLifecycle\n import androidx.metrics.performance.JankStats\n+import androidx.navigation3.runtime.deeplink.DeepLinkRequest\n+import androidx.navigation3.runtime.deeplink.DeepLinkUri\n+import androidx.navigation3.runtime.deeplink.UriDeepLinkMatcher\n import androidx.tracing.trace\n import com.google.samples.apps.nowinandroid.MainActivityUiState.Loading\n import com.google.samples.apps.nowinandroid.core.analytics.AnalyticsHelper\n@@ -40,7 +43,9 @@ import com.google.samples.apps.nowinandroid.core.data.repository.UserNewsResourc\n import com.google.samples.apps.nowinandroid.core.data.util.NetworkMonitor\n import com.google.samples.apps.nowinandroid.core.data.util.TimeZoneMonitor\n import com.google.samples.apps.nowinandroid.core.designsystem.theme.NiaTheme\n+import com.google.samples.apps.nowinandroid.core.notifications.DEEP_LINK_URI_PATTERN\n import com.google.samples.apps.nowinandroid.core.ui.LocalTimeZone\n+import com.google.samples.apps.nowinandroid.feature.foryou.api.navigation.ForYouNavKey\n import com.google.samples.apps.nowinandroid.ui.NiaApp\n import com.google.samples.apps.nowinandroid.ui.rememberNiaAppState\n import com.google.samples.apps.nowinandroid.util.isSystemInDarkTheme\n@@ -52,6 +57,11 @@ import kotlinx.coroutines.flow.onEach\n import kotlinx.coroutines.launch\n import javax.inject.Inject\n \n+private val forYouDeepLinkMatcher = UriDeepLinkMatcher(\n+    uriPattern = DeepLinkUri(DEEP_LINK_URI_PATTERN),\n+    serializer = ForYouNavKey.serializer(),\n+)\n+\n @AndroidEntryPoint\n class MainActivity : ComponentActivity() {\n \n@@ -132,11 +142,20 @@ class MainActivity : ComponentActivity() {\n         // the UI.\n         splashScreen.setKeepOnScreenCondition { viewModel.uiState.value.shouldKeepSplashScreen() }\n \n+        val deepLinkKey = if (savedInstanceState == null) {\n+            intent.data?.let { uri ->\n+                forYouDeepLinkMatcher.match(DeepLinkRequest(uri.toString()))?.key\n+            }\n+        } else {\n+            null\n+        }\n+\n         setContent {\n             val appState = rememberNiaAppState(\n                 networkMonitor = networkMonitor,\n                 userNewsResourceRepository = userNewsResourceRepository,\n                 timeZoneMonitor = timeZoneMonitor,\n+                deepLinkKey = deepLinkKey,\n             )\n \n             val currentTimeZone by appState.currentTimeZone.collectAsStateWithLifecycle()"
+    },
+    {
+      "sha": "cc1c495d1aba65d8ec3e1201268634b4ad676046",
+      "filename": "app/src/main/kotlin/com/google/samples/apps/nowinandroid/navigation/TopLevelNavItem.kt",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fnavigation%2FTopLevelNavItem.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fnavigation%2FTopLevelNavItem.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fnavigation%2FTopLevelNavItem.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -67,7 +67,7 @@ val INTERESTS = TopLevelNavItem(\n )\n \n val TOP_LEVEL_NAV_ITEMS = mapOf(\n-    ForYouNavKey to FOR_YOU,\n+    ForYouNavKey() to FOR_YOU,\n     BookmarksNavKey to BOOKMARKS,\n     InterestsNavKey(null) to INTERESTS,\n )"
+    },
+    {
+      "sha": "a0e36e723fc2cef20ab466bece27868e77546ee4",
+      "filename": "app/src/main/kotlin/com/google/samples/apps/nowinandroid/ui/NiaApp.kt",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 3,
+      "changes": 7,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaApp.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaApp.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaApp.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -92,7 +92,8 @@ fun NiaApp(\n     modifier: Modifier = Modifier,\n     windowAdaptiveInfo: WindowAdaptiveInfo = currentWindowAdaptiveInfo(),\n ) {\n-    val shouldShowGradientBackground = appState.navigationState.currentTopLevelKey == ForYouNavKey\n+    val shouldShowGradientBackground =\n+        appState.navigationState.currentTopLevelKey == ForYouNavKey()\n     var showSettingsDialog by rememberSaveable { mutableStateOf(false) }\n \n     NiaBackground(modifier = modifier) {\n@@ -220,7 +221,7 @@ internal fun NiaApp(\n                 // Only show the top app bar on top level destinations.\n                 var shouldShowTopAppBar = false\n \n-                if (appState.navigationState.currentKey in appState.navigationState.topLevelKeys) {\n+                if (appState.navigationState.isAtTopLevel) {\n                     shouldShowTopAppBar = true\n \n                     val destination = TOP_LEVEL_NAV_ITEMS[appState.navigationState.currentTopLevelKey]\n@@ -266,7 +267,7 @@ internal fun NiaApp(\n \n                     NavDisplay(\n                         entries = appState.navigationState.toEntries(entryProvider),\n-                        sceneStrategy = listDetailStrategy,\n+                        sceneStrategies = listOf(listDetailStrategy),\n                         onBack = { navigator.goBack() },\n                     )\n                 }"
+    },
+    {
+      "sha": "9591338f04b21afe9f0424d6054136de0688c053",
+      "filename": "app/src/main/kotlin/com/google/samples/apps/nowinandroid/ui/NiaAppState.kt",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 2,
+      "changes": 9,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppState.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppState.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppState.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -43,9 +43,14 @@ fun rememberNiaAppState(\n     networkMonitor: NetworkMonitor,\n     userNewsResourceRepository: UserNewsResourceRepository,\n     timeZoneMonitor: TimeZoneMonitor,\n+    deepLinkKey: NavKey? = null,\n     coroutineScope: CoroutineScope = rememberCoroutineScope(),\n ): NiaAppState {\n-    val navigationState = rememberNavigationState(ForYouNavKey, TOP_LEVEL_NAV_ITEMS.keys)\n+    val navigationState = rememberNavigationState(\n+        startKey = ForYouNavKey(),\n+        topLevelKeys = TOP_LEVEL_NAV_ITEMS.keys,\n+        deepLinkKey = deepLinkKey,\n+    )\n \n     NavigationTrackingSideEffect(navigationState)\n \n@@ -89,7 +94,7 @@ class NiaAppState(\n         userNewsResourceRepository.observeAllForFollowedTopics()\n             .combine(userNewsResourceRepository.observeAllBookmarked()) { forYouNewsResources, bookmarkedNewsResources ->\n                 setOfNotNull(\n-                    ForYouNavKey.takeIf { forYouNewsResources.any { !it.hasBeenViewed } },\n+                    ForYouNavKey().takeIf { forYouNewsResources.any { !it.hasBeenViewed } },\n                     BookmarksNavKey.takeIf { bookmarkedNewsResources.any { !it.hasBeenViewed } },\n                 )\n             }"
+    },
+    {
+      "sha": "5bd7c9ff18229fd141df40dbe1c0a9f62e3aef7e",
+      "filename": "app/src/testDemo/kotlin/com/google/samples/apps/nowinandroid/ui/NiaAppStateTest.kt",
+      "status": "modified",
+      "additions": 27,
+      "deletions": 6,
+      "changes": 33,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2FtestDemo%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppStateTest.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/app%2Fsrc%2FtestDemo%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppStateTest.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/app%2Fsrc%2FtestDemo%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fui%2FNiaAppStateTest.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -42,6 +42,7 @@ import org.junit.runner.RunWith\n import org.robolectric.RobolectricTestRunner\n import org.robolectric.annotation.Config\n import kotlin.test.assertEquals\n+import kotlin.test.assertTrue\n \n /**\n  * Tests [NiaAppState].\n@@ -66,10 +67,10 @@ class NiaAppStateTest {\n     private lateinit var state: NiaAppState\n \n     private fun testNavigationState() = NavigationState(\n-        startKey = ForYouNavKey,\n-        topLevelStack = NavBackStack(ForYouNavKey),\n+        startKey = ForYouNavKey(),\n+        topLevelStack = NavBackStack(ForYouNavKey()),\n         subStacks = mapOf(\n-            ForYouNavKey to NavBackStack(ForYouNavKey),\n+            ForYouNavKey() to NavBackStack(ForYouNavKey()),\n             BookmarksNavKey to NavBackStack(BookmarksNavKey),\n         ),\n     )\n@@ -91,8 +92,8 @@ class NiaAppStateTest {\n             }\n         }\n \n-        assertEquals(ForYouNavKey, state.navigationState.currentTopLevelKey)\n-        assertEquals(ForYouNavKey, state.navigationState.currentKey)\n+        assertEquals(ForYouNavKey(), state.navigationState.currentTopLevelKey)\n+        assertEquals(ForYouNavKey(), state.navigationState.currentKey)\n \n         // Navigate to another destination once\n         navigator.navigate(BookmarksNavKey)\n@@ -117,11 +118,31 @@ class NiaAppStateTest {\n \n         assertEquals(3, navigationState.topLevelKeys.size)\n         assertEquals(\n-            setOf(ForYouNavKey, BookmarksNavKey, InterestsNavKey(null)),\n+            setOf(ForYouNavKey(), BookmarksNavKey, InterestsNavKey(null)),\n             navigationState.topLevelKeys,\n         )\n     }\n \n+    @Test\n+    fun niaAppState_withDeepLinkKey_setsInitialDestinationAtTopLevel() = runTest {\n+        val deepLinkKey = ForYouNavKey(linkedNewsResourceId = \"123\")\n+\n+        composeTestRule.setContent {\n+            state = rememberNiaAppState(\n+                networkMonitor = networkMonitor,\n+                userNewsResourceRepository = userNewsResourceRepository,\n+                timeZoneMonitor = timeZoneMonitor,\n+                deepLinkKey = deepLinkKey,\n+            )\n+        }\n+\n+        val navigationState = state.navigationState\n+\n+        assertEquals(ForYouNavKey(), navigationState.currentTopLevelKey)\n+        assertEquals(deepLinkKey, navigationState.currentKey)\n+        assertTrue(navigationState.isAtTopLevel)\n+    }\n+\n     @Test\n     fun niaAppState_whenNetworkMonitorIsOffline_StateIsOffline() = runTest(UnconfinedTestDispatcher()) {\n         composeTestRule.setContent {"
+    },
+    {
+      "sha": "b66b62847d922f5a7ebff3fb68048dea1c5fbb29",
+      "filename": "build-logic/convention/src/main/kotlin/com/google/samples/apps/nowinandroid/KotlinAndroid.kt",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/build-logic%2Fconvention%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FKotlinAndroid.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/build-logic%2Fconvention%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FKotlinAndroid.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/build-logic%2Fconvention%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2FKotlinAndroid.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -35,10 +35,10 @@ internal fun Project.configureKotlinAndroid(\n     commonExtension: CommonExtension,\n ) {\n     commonExtension.apply {\n-        compileSdk = 36\n+        compileSdk = 37\n \n         defaultConfig.apply {\n-            minSdk = 23\n+            minSdk = 24\n         }\n \n         compileOptions.apply {"
+    },
+    {
+      "sha": "819f628d839a8e2884cc559151350f5395adf253",
+      "filename": "core/navigation/src/main/kotlin/com/google/samples/apps/nowinandroid/core/navigation/NavigationState.kt",
+      "status": "modified",
+      "additions": 12,
+      "deletions": 1,
+      "changes": 13,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigationState.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigationState.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigationState.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -33,14 +33,23 @@ import androidx.navigation3.runtime.rememberSaveableStateHolderNavEntryDecorator\n \n /**\n  * Create a navigation state that persists config changes and process death.\n+ *\n+ * @param startKey - the starting top level key.\n+ * @param topLevelKeys - the top level keys, each of which gets its own sub stack.\n+ * @param deepLinkKey - optional deep link key to use as the initial destination of the [startKey]\n+ * sub stack.\n  */\n @Composable\n fun rememberNavigationState(\n     startKey: NavKey,\n     topLevelKeys: Set<NavKey>,\n+    deepLinkKey: NavKey? = null,\n ): NavigationState {\n     val topLevelStack = rememberNavBackStack(startKey)\n-    val subStacks = topLevelKeys.associateWith { key -> rememberNavBackStack(key) }\n+    val subStacks = topLevelKeys.associateWith { key ->\n+        val firstKey = if (key == startKey && deepLinkKey != null) deepLinkKey else key\n+        rememberNavBackStack(firstKey)\n+    }\n \n     return remember(startKey, topLevelKeys) {\n         NavigationState(\n@@ -75,6 +84,8 @@ class NavigationState(\n \n     @get:VisibleForTesting\n     val currentKey: NavKey by derivedStateOf { currentSubStack.last() }\n+\n+    val isAtTopLevel: Boolean by derivedStateOf { currentSubStack.size == 1 }\n }\n \n /**"
+    },
+    {
+      "sha": "fede8156b7aabd5216f5bfaf259637520f8e93fb",
+      "filename": "core/navigation/src/main/kotlin/com/google/samples/apps/nowinandroid/core/navigation/Navigator.kt",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 8,
+      "changes": 15,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigator.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigator.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/core%2Fnavigation%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigator.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -42,14 +42,13 @@ class Navigator(val state: NavigationState) {\n      * Go back to the previous navigation key.\n      */\n     fun goBack() {\n-        when (state.currentKey) {\n-            state.startKey -> error(\"You cannot go back from the start route\")\n-            state.currentTopLevelKey -> {\n-                // We're at the base of the current sub stack, go back to the previous top level\n-                // stack.\n-                state.topLevelStack.removeLastOrNull()\n-            }\n-            else -> state.currentSubStack.removeLastOrNull()\n+        when {\n+            !state.isAtTopLevel -> state.currentSubStack.removeLastOrNull()\n+            state.currentTopLevelKey == state.startKey ->\n+                error(\"You cannot go back from the start route\")\n+            // We're at the base of the current sub stack, go back to the previous top level\n+            // stack.\n+            else -> state.topLevelStack.removeLastOrNull()\n         }\n     }\n "
+    },
+    {
+      "sha": "ae9ae5043208a1183ae935fcdfca7266b5d61411",
+      "filename": "core/navigation/src/test/kotlin/com/google/samples/apps/nowinandroid/core/navigation/NavigatorTest.kt",
+      "status": "modified",
+      "additions": 20,
+      "deletions": 0,
+      "changes": 20,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigatorTest.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/core%2Fnavigation%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigatorTest.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/core%2Fnavigation%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Fcore%2Fnavigation%2FNavigatorTest.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -253,4 +253,24 @@ class NavigatorTest {\n             navigator.goBack()\n         }\n     }\n+\n+    @Test\n+    fun throwOnBackFromStartTopLevelWithDeepLinkKey() {\n+        navigationState.subStacks.getValue(TestFirstTopLevelKey)[0] = TestKeyFirst\n+\n+        assertThat(navigationState.isAtTopLevel).isTrue()\n+        assertFailsWith<IllegalStateException> {\n+            navigator.goBack()\n+        }\n+    }\n+\n+    @Test\n+    fun popTopLevelWhenRootKeyDiffersFromTopLevelKey() {\n+        navigator.navigate(TestSecondTopLevelKey)\n+        navigationState.subStacks.getValue(TestSecondTopLevelKey)[0] = TestKeySecond\n+\n+        navigator.goBack()\n+\n+        assertThat(navigationState.currentTopLevelKey).isEqualTo(TestFirstTopLevelKey)\n+    }\n }"
+    },
+    {
+      "sha": "e9a5fbfb9b3bddfcdc176c915da0f671b920a4d8",
+      "filename": "feature/foryou/api/src/main/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/api/navigation/ForYouNavKey.kt",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 1,
+      "changes": 4,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fapi%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fapi%2Fnavigation%2FForYouNavKey.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fapi%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fapi%2Fnavigation%2FForYouNavKey.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fapi%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fapi%2Fnavigation%2FForYouNavKey.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -20,4 +20,6 @@ import androidx.navigation3.runtime.NavKey\n import kotlinx.serialization.Serializable\n \n @Serializable\n-object ForYouNavKey : NavKey\n+data class ForYouNavKey(\n+    val linkedNewsResourceId: String? = null,\n+) : NavKey"
+    },
+    {
+      "sha": "94a05e770bea24fb5ca209d10f14df793a608e3a",
+      "filename": "feature/foryou/impl/src/androidTest/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/ForYouScreenTest.kt",
+      "status": "modified",
+      "additions": 0,
+      "deletions": 14,
+      "changes": 14,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2FandroidTest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenTest.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2FandroidTest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenTest.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2FandroidTest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenTest.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -58,13 +58,11 @@ class ForYouScreenTest {\n                     isSyncing = false,\n                     onboardingUiState = OnboardingUiState.Loading,\n                     feedState = NewsFeedUiState.Loading,\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -84,13 +82,11 @@ class ForYouScreenTest {\n                     isSyncing = true,\n                     onboardingUiState = OnboardingUiState.NotShown,\n                     feedState = NewsFeedUiState.Success(emptyList()),\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -116,13 +112,11 @@ class ForYouScreenTest {\n                     feedState = NewsFeedUiState.Success(\n                         feed = emptyList(),\n                     ),\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -163,13 +157,11 @@ class ForYouScreenTest {\n                     feedState = NewsFeedUiState.Success(\n                         feed = emptyList(),\n                     ),\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -205,13 +197,11 @@ class ForYouScreenTest {\n                         topics = followableTopicTestData,\n                     ),\n                     feedState = NewsFeedUiState.Loading,\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -231,13 +221,11 @@ class ForYouScreenTest {\n                     isSyncing = false,\n                     onboardingUiState = OnboardingUiState.NotShown,\n                     feedState = NewsFeedUiState.Loading,\n-                    deepLinkedUserNewsResource = null,\n                     onTopicCheckedChanged = { _, _ -> },\n                     onTopicClick = {},\n                     saveFollowedTopics = {},\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -258,13 +246,11 @@ class ForYouScreenTest {\n                 feedState = NewsFeedUiState.Success(\n                     feed = userNewsResourcesTestData,\n                 ),\n-                deepLinkedUserNewsResource = null,\n                 onTopicCheckedChanged = { _, _ -> },\n                 onTopicClick = {},\n                 saveFollowedTopics = {},\n                 onNewsResourcesCheckedChanged = { _, _ -> },\n                 onNewsResourceViewed = {},\n-                onDeepLinkOpened = {},\n             )\n         }\n "
+    },
+    {
+      "sha": "10007a90a256c97d64429c29236d336b40871056",
+      "filename": "feature/foryou/impl/src/main/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/ForYouScreen.kt",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 21,
+      "changes": 28,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreen.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreen.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreen.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -80,7 +80,6 @@ import androidx.compose.ui.tooling.preview.PreviewParameter\n import androidx.compose.ui.unit.dp\n import androidx.compose.ui.unit.max\n import androidx.compose.ui.unit.sp\n-import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel\n import androidx.lifecycle.compose.collectAsStateWithLifecycle\n import com.google.accompanist.permissions.ExperimentalPermissionsApi\n import com.google.accompanist.permissions.PermissionStatus.Denied\n@@ -109,20 +108,23 @@ import com.google.samples.apps.nowinandroid.feature.foryou.api.R\n fun ForYouScreen(\n     onTopicClick: (String) -> Unit,\n     modifier: Modifier = Modifier,\n-    viewModel: ForYouViewModel = hiltViewModel(),\n+    viewModel: ForYouViewModel,\n ) {\n     val onboardingUiState by viewModel.onboardingUiState.collectAsStateWithLifecycle()\n     val feedState by viewModel.feedState.collectAsStateWithLifecycle()\n     val isSyncing by viewModel.isSyncing.collectAsStateWithLifecycle()\n     val deepLinkedUserNewsResource by viewModel.deepLinkedNewsResource.collectAsStateWithLifecycle()\n \n+    DeepLinkEffect(\n+        deepLinkedUserNewsResource,\n+        viewModel::onDeepLinkOpened,\n+    )\n+\n     ForYouScreen(\n         isSyncing = isSyncing,\n         onboardingUiState = onboardingUiState,\n         feedState = feedState,\n-        deepLinkedUserNewsResource = deepLinkedUserNewsResource,\n         onTopicCheckedChanged = viewModel::updateTopicSelection,\n-        onDeepLinkOpened = viewModel::onDeepLinkOpened,\n         onTopicClick = onTopicClick,\n         saveFollowedTopics = viewModel::dismissOnboarding,\n         onNewsResourcesCheckedChanged = viewModel::updateNewsResourceSaved,\n@@ -136,10 +138,8 @@ internal fun ForYouScreen(\n     isSyncing: Boolean,\n     onboardingUiState: OnboardingUiState,\n     feedState: NewsFeedUiState,\n-    deepLinkedUserNewsResource: UserNewsResource?,\n     onTopicCheckedChanged: (String, Boolean) -> Unit,\n     onTopicClick: (String) -> Unit,\n-    onDeepLinkOpened: (String) -> Unit,\n     saveFollowedTopics: () -> Unit,\n     onNewsResourcesCheckedChanged: (String, Boolean) -> Unit,\n     onNewsResourceViewed: (String) -> Unit,\n@@ -244,10 +244,6 @@ internal fun ForYouScreen(\n     }\n     TrackScreenViewEvent(screenName = \"ForYou\")\n     NotificationPermissionEffect()\n-    DeepLinkEffect(\n-        deepLinkedUserNewsResource,\n-        onDeepLinkOpened,\n-    )\n }\n \n /**\n@@ -472,7 +468,7 @@ private fun DeepLinkEffect(\n \n     LaunchedEffect(userNewsResource) {\n         if (userNewsResource == null) return@LaunchedEffect\n-        if (!userNewsResource.hasBeenViewed) onDeepLinkOpened(userNewsResource.id)\n+        onDeepLinkOpened(userNewsResource.id)\n \n         launchCustomChromeTab(\n             context = context,\n@@ -514,13 +510,11 @@ fun ForYouScreenPopulatedFeed(\n             feedState = NewsFeedUiState.Success(\n                 feed = userNewsResources,\n             ),\n-            deepLinkedUserNewsResource = null,\n             onTopicCheckedChanged = { _, _ -> },\n             saveFollowedTopics = {},\n             onNewsResourcesCheckedChanged = { _, _ -> },\n             onNewsResourceViewed = {},\n             onTopicClick = {},\n-            onDeepLinkOpened = {},\n         )\n     }\n }\n@@ -538,13 +532,11 @@ fun ForYouScreenOfflinePopulatedFeed(\n             feedState = NewsFeedUiState.Success(\n                 feed = userNewsResources,\n             ),\n-            deepLinkedUserNewsResource = null,\n             onTopicCheckedChanged = { _, _ -> },\n             saveFollowedTopics = {},\n             onNewsResourcesCheckedChanged = { _, _ -> },\n             onNewsResourceViewed = {},\n             onTopicClick = {},\n-            onDeepLinkOpened = {},\n         )\n     }\n }\n@@ -565,13 +557,11 @@ fun ForYouScreenTopicSelection(\n             feedState = NewsFeedUiState.Success(\n                 feed = userNewsResources,\n             ),\n-            deepLinkedUserNewsResource = null,\n             onTopicCheckedChanged = { _, _ -> },\n             saveFollowedTopics = {},\n             onNewsResourcesCheckedChanged = { _, _ -> },\n             onNewsResourceViewed = {},\n             onTopicClick = {},\n-            onDeepLinkOpened = {},\n         )\n     }\n }\n@@ -584,13 +574,11 @@ fun ForYouScreenLoading() {\n             isSyncing = false,\n             onboardingUiState = OnboardingUiState.Loading,\n             feedState = NewsFeedUiState.Loading,\n-            deepLinkedUserNewsResource = null,\n             onTopicCheckedChanged = { _, _ -> },\n             saveFollowedTopics = {},\n             onNewsResourcesCheckedChanged = { _, _ -> },\n             onNewsResourceViewed = {},\n             onTopicClick = {},\n-            onDeepLinkOpened = {},\n         )\n     }\n }\n@@ -608,13 +596,11 @@ fun ForYouScreenPopulatedAndLoading(\n             feedState = NewsFeedUiState.Success(\n                 feed = userNewsResources,\n             ),\n-            deepLinkedUserNewsResource = null,\n             onTopicCheckedChanged = { _, _ -> },\n             saveFollowedTopics = {},\n             onNewsResourcesCheckedChanged = { _, _ -> },\n             onNewsResourceViewed = {},\n             onTopicClick = {},\n-            onDeepLinkOpened = {},\n         )\n     }\n }"
+    },
+    {
+      "sha": "b6bd122c344ec1d88716a7cedd4e05fec7fe6c68",
+      "filename": "feature/foryou/impl/src/main/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/ForYouViewModel.kt",
+      "status": "modified",
+      "additions": 16,
+      "deletions": 5,
+      "changes": 21,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModel.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModel.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModel.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -29,6 +29,10 @@ import com.google.samples.apps.nowinandroid.core.data.util.SyncManager\n import com.google.samples.apps.nowinandroid.core.domain.GetFollowableTopicsUseCase\n import com.google.samples.apps.nowinandroid.core.notifications.DEEP_LINK_NEWS_RESOURCE_ID_KEY\n import com.google.samples.apps.nowinandroid.core.ui.NewsFeedUiState\n+import com.google.samples.apps.nowinandroid.feature.foryou.api.navigation.ForYouNavKey\n+import dagger.assisted.Assisted\n+import dagger.assisted.AssistedFactory\n+import dagger.assisted.AssistedInject\n import dagger.hilt.android.lifecycle.HiltViewModel\n import kotlinx.coroutines.flow.Flow\n import kotlinx.coroutines.flow.SharingStarted\n@@ -39,24 +43,24 @@ import kotlinx.coroutines.flow.flowOf\n import kotlinx.coroutines.flow.map\n import kotlinx.coroutines.flow.stateIn\n import kotlinx.coroutines.launch\n-import javax.inject.Inject\n \n-@HiltViewModel\n-class ForYouViewModel @Inject constructor(\n+@HiltViewModel(assistedFactory = ForYouViewModel.Factory::class)\n+class ForYouViewModel @AssistedInject constructor(\n     private val savedStateHandle: SavedStateHandle,\n     syncManager: SyncManager,\n     private val analyticsHelper: AnalyticsHelper,\n     private val userDataRepository: UserDataRepository,\n     userNewsResourceRepository: UserNewsResourceRepository,\n     getFollowableTopics: GetFollowableTopicsUseCase,\n+    @Assisted private val key: ForYouNavKey,\n ) : ViewModel() {\n \n     private val shouldShowOnboarding: Flow<Boolean> =\n         userDataRepository.userData.map { !it.shouldHideOnboarding }\n \n-    val deepLinkedNewsResource = savedStateHandle.getStateFlow<String?>(\n+    val deepLinkedNewsResource = savedStateHandle.getStateFlow(\n         key = DEEP_LINK_NEWS_RESOURCE_ID_KEY,\n-        null,\n+        initialValue = key.linkedNewsResourceId,\n     )\n         .flatMapLatest { newsResourceId ->\n             if (newsResourceId == null) {\n@@ -145,6 +149,13 @@ class ForYouViewModel @Inject constructor(\n             userDataRepository.setShouldHideOnboarding(true)\n         }\n     }\n+\n+    @AssistedFactory\n+    interface Factory {\n+        fun create(\n+            key: ForYouNavKey,\n+        ): ForYouViewModel\n+    }\n }\n \n private fun AnalyticsHelper.logNewsDeepLinkOpen(newsResourceId: String) ="
+    },
+    {
+      "sha": "110352bc0df45e56ff88dbcbbf4da174adfdbf5b",
+      "filename": "feature/foryou/impl/src/main/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/navigation/ForYouEntryProvider.kt",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 1,
+      "changes": 5,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2Fnavigation%2FForYouEntryProvider.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2Fnavigation%2FForYouEntryProvider.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2Fmain%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2Fnavigation%2FForYouEntryProvider.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -16,17 +16,20 @@\n \n package com.google.samples.apps.nowinandroid.feature.foryou.impl.navigation\n \n+import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel\n import androidx.navigation3.runtime.EntryProviderScope\n import androidx.navigation3.runtime.NavKey\n import com.google.samples.apps.nowinandroid.core.navigation.Navigator\n import com.google.samples.apps.nowinandroid.feature.foryou.api.navigation.ForYouNavKey\n import com.google.samples.apps.nowinandroid.feature.foryou.impl.ForYouScreen\n+import com.google.samples.apps.nowinandroid.feature.foryou.impl.ForYouViewModel\n import com.google.samples.apps.nowinandroid.feature.topic.api.navigation.navigateToTopic\n \n fun EntryProviderScope<NavKey>.forYouEntry(navigator: Navigator) {\n-    entry<ForYouNavKey> {\n+    entry<ForYouNavKey> { key ->\n         ForYouScreen(\n             onTopicClick = navigator::navigateToTopic,\n+            viewModel = hiltViewModel<ForYouViewModel, ForYouViewModel.Factory> { it.create(key) },\n         )\n     }\n }"
+    },
+    {
+      "sha": "090418578a8847f71dbe7fc221a7a3683123731b",
+      "filename": "feature/foryou/impl/src/test/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/ForYouScreenScreenshotTests.kt",
+      "status": "modified",
+      "additions": 0,
+      "deletions": 8,
+      "changes": 8,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenScreenshotTests.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenScreenshotTests.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouScreenScreenshotTests.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -83,8 +83,6 @@ class ForYouScreenScreenshotTests {\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n                     onTopicClick = {},\n-                    deepLinkedUserNewsResource = null,\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -103,8 +101,6 @@ class ForYouScreenScreenshotTests {\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n                     onTopicClick = {},\n-                    deepLinkedUserNewsResource = null,\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -179,8 +175,6 @@ class ForYouScreenScreenshotTests {\n                     onNewsResourcesCheckedChanged = { _, _ -> },\n                     onNewsResourceViewed = {},\n                     onTopicClick = {},\n-                    deepLinkedUserNewsResource = null,\n-                    onDeepLinkOpened = {},\n                 )\n             }\n         }\n@@ -202,8 +196,6 @@ class ForYouScreenScreenshotTests {\n                         onNewsResourcesCheckedChanged = { _, _ -> },\n                         onNewsResourceViewed = {},\n                         onTopicClick = {},\n-                        deepLinkedUserNewsResource = null,\n-                        onDeepLinkOpened = {},\n                     )\n                 }\n             }"
+    },
+    {
+      "sha": "1c524d34519cecc32d6a130e49a755c0e91c9b30",
+      "filename": "feature/foryou/impl/src/test/kotlin/com/google/samples/apps/nowinandroid/feature/foryou/impl/ForYouViewModelTest.kt",
+      "status": "modified",
+      "additions": 15,
+      "deletions": 3,
+      "changes": 18,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModelTest.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModelTest.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Fforyou%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Ffeature%2Fforyou%2Fimpl%2FForYouViewModelTest.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -35,6 +35,7 @@ import com.google.samples.apps.nowinandroid.core.testing.util.MainDispatcherRule\n import com.google.samples.apps.nowinandroid.core.testing.util.TestAnalyticsHelper\n import com.google.samples.apps.nowinandroid.core.testing.util.TestSyncManager\n import com.google.samples.apps.nowinandroid.core.ui.NewsFeedUiState\n+import com.google.samples.apps.nowinandroid.feature.foryou.api.navigation.ForYouNavKey\n import kotlinx.coroutines.flow.collect\n import kotlinx.coroutines.flow.first\n import kotlinx.coroutines.launch\n@@ -84,6 +85,7 @@ class ForYouViewModelTest {\n             userDataRepository = userDataRepository,\n             userNewsResourceRepository = userNewsResourceRepository,\n             getFollowableTopics = getFollowableTopicsUseCase,\n+            key = ForYouNavKey(),\n         )\n     }\n \n@@ -432,11 +434,21 @@ class ForYouViewModelTest {\n \n     @Test\n     fun deepLinkedNewsResourceIsFetchedAndResetAfterViewing() = runTest {\n+        val linkedNewsResourceId = sampleNewsResources.first().id\n+        viewModel = ForYouViewModel(\n+            syncManager = syncManager,\n+            savedStateHandle = SavedStateHandle(),\n+            analyticsHelper = analyticsHelper,\n+            userDataRepository = userDataRepository,\n+            userNewsResourceRepository = userNewsResourceRepository,\n+            getFollowableTopics = getFollowableTopicsUseCase,\n+            key = ForYouNavKey(linkedNewsResourceId = linkedNewsResourceId),\n+        )\n+\n         backgroundScope.launch(UnconfinedTestDispatcher()) { viewModel.deepLinkedNewsResource.collect() }\n \n         newsRepository.sendNewsResources(sampleNewsResources)\n         userDataRepository.setUserData(emptyUserData)\n-        savedStateHandle[DEEP_LINK_NEWS_RESOURCE_ID_KEY] = sampleNewsResources.first().id\n \n         assertEquals(\n             expected = UserNewsResource(\n@@ -447,7 +459,7 @@ class ForYouViewModelTest {\n         )\n \n         viewModel.onDeepLinkOpened(\n-            newsResourceId = sampleNewsResources.first().id,\n+            newsResourceId = linkedNewsResourceId,\n         )\n \n         assertNull(\n@@ -461,7 +473,7 @@ class ForYouViewModelTest {\n                     extras = listOf(\n                         Param(\n                             key = DEEP_LINK_NEWS_RESOURCE_ID_KEY,\n-                            value = sampleNewsResources.first().id,\n+                            value = linkedNewsResourceId,\n                         ),\n                     ),\n                 ),"
+    },
+    {
+      "sha": "1d593f6fc0f91977bd330d7a09d6eba3fd1c46d1",
+      "filename": "feature/interests/impl/src/test/kotlin/com/google/samples/apps/nowinandroid/interests/impl/InterestsListDetailScreenTest.kt",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 2,
+      "changes": 3,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Finterests%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Finterests%2Fimpl%2FInterestsListDetailScreenTest.kt",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/feature%2Finterests%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Finterests%2Fimpl%2FInterestsListDetailScreenTest.kt",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/feature%2Finterests%2Fimpl%2Fsrc%2Ftest%2Fkotlin%2Fcom%2Fgoogle%2Fsamples%2Fapps%2Fnowinandroid%2Finterests%2Fimpl%2FInterestsListDetailScreenTest.kt?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -56,7 +56,6 @@ import org.junit.runner.RunWith\n import org.robolectric.RobolectricTestRunner\n import org.robolectric.annotation.Config\n import javax.inject.Inject\n-import kotlin.getValue\n import kotlin.properties.ReadOnlyProperty\n \n private const val EXPANDED_WIDTH = \"w1200dp-h840dp\"\n@@ -125,7 +124,7 @@ class InterestsListDetailScreenTest {\n         NavDisplay(\n             entries = navigationState.toEntries(entryProvider),\n             onBack = { navigator.goBack() },\n-            sceneStrategy = rememberListDetailSceneStrategy(),\n+            sceneStrategies = listOf(rememberListDetailSceneStrategy()),\n         )\n     }\n "
+    },
+    {
+      "sha": "f68a8531163adecd9dfc66880483e5a85dd28651",
+      "filename": "gradle/libs.versions.toml",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/android/nowinandroid/blob/2982e63cb691ad49cd009aab43dc206fee6699c2/gradle%2Flibs.versions.toml",
+      "raw_url": "https://github.com/android/nowinandroid/raw/2982e63cb691ad49cd009aab43dc206fee6699c2/gradle%2Flibs.versions.toml",
+      "contents_url": "https://api.github.com/repos/android/nowinandroid/contents/gradle%2Flibs.versions.toml?ref=2982e63cb691ad49cd009aab43dc206fee6699c2",
+      "patch": "@@ -23,7 +23,7 @@ androidxLifecycleViewModelNavigation3 = \"2.10.0\"\n androidxMacroBenchmark = \"1.5.0-alpha01\"\n androidxMetrics = \"1.0.0-beta01\"\n androidxNavigation = \"2.8.5\"\n-androidxNavigation3 = \"1.0.0\"\n+androidxNavigation3 = \"1.2.0\"\n androidxProfileinstaller = \"1.4.1\"\n androidxSavedStateCompose = \"1.3.1\"\n androidxTestCore = \"1.7.0-rc01\""
+    }
+  ]
+}

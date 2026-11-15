@@ -1,0 +1,6 @@
+{
+  "command": "./gradlew testDebugUnitTest --console=plain",
+  "exit_code": 0,
+  "wall_seconds": 5.3625331670000005,
+  "context": "Gradle daemon ativo e depend\u00eancias resolvidas; verificar log para tarefas executadas e cache"
+}

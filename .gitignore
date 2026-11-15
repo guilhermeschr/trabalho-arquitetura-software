@@ -1,0 +1,27 @@
+# Arquivos locais do sistema e editores
+.DS_Store
+._*
+.idea/
+*.iml
+.vscode/
+
+# Caches, intermediários e ferramentas temporárias
+/tmp/
+.gradle/
+.kotlin/
+**/build/
+__pycache__/
+*.py[cod]
+/.codex-finalizer/
+
+# Caminhos locais do SDK e credenciais
+local.properties
+key.properties
+*.keystore
+*.jks
+.env
+.env.*
+!.env.example
+
+# Prévia antiga do template; a versão final fica em output/pdf
+/output/pdf/artigo-cotb2027-base.pdf

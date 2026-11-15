@@ -1,0 +1,13 @@
+{
+  "checked_controls": [
+    "marcador-lista",
+    "aba-noticias",
+    "aba-favoritos",
+    "marcador-detalhes",
+    "voltar"
+  ],
+  "passed": 5,
+  "total": 5,
+  "minimum_dp": 48,
+  "evidence": "acessibilidade-logcat.txt e teste Compose aprovado"
+}

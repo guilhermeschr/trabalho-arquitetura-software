@@ -1,0 +1,5 @@
+# Preserva os bytes dos arquivos de referência e das evidências coletadas.
+/artigo/acmart.cls -text -whitespace
+/artigo/ACM-Reference-Format.bst -text -whitespace
+/artigo/template-original/** -text -whitespace
+/docs/evidencias/** -text -whitespace

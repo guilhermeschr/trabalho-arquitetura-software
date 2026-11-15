@@ -1,0 +1,76 @@
+> Task :core:preBuild UP-TO-DATE
+> Task :core:preDebugBuild UP-TO-DATE
+> Task :core:generateDebugResValues UP-TO-DATE
+> Task :core:generateDebugResources UP-TO-DATE
+> Task :core:packageDebugResources UP-TO-DATE
+> Task :core:parseDebugLocalResources UP-TO-DATE
+> Task :core:generateDebugRFile UP-TO-DATE
+> Task :core:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:kspDebugKotlin UP-TO-DATE
+> Task :core:compileDebugKotlin UP-TO-DATE
+> Task :core:javaPreCompileDebug UP-TO-DATE
+> Task :core:compileDebugJavaWithJavac UP-TO-DATE
+> Task :core:transformDebugClassesWithAsm UP-TO-DATE
+> Task :core:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :core:preDebugAndroidTestBuild UP-TO-DATE
+> Task :core:writeDebugAarMetadata UP-TO-DATE
+> Task :core:compileDebugLibraryResources UP-TO-DATE
+> Task :core:generateDebugAndroidTestResValues UP-TO-DATE
+> Task :core:mapDebugAndroidTestSourceSetPaths
+> Task :core:generateDebugAndroidTestResources
+> Task :core:checkDebugAndroidTestAarMetadata
+> Task :core:extractDeepLinksDebug UP-TO-DATE
+> Task :core:processDebugManifest UP-TO-DATE
+> Task :core:mergeDebugAndroidTestResources
+> Task :core:processDebugAndroidTestManifest
+> Task :core:javaPreCompileDebugAndroidTest
+> Task :core:mergeDebugAndroidTestShaders
+> Task :core:compileDebugAndroidTestShaders NO-SOURCE
+> Task :core:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :core:mergeDebugShaders UP-TO-DATE
+> Task :core:compileDebugShaders NO-SOURCE
+> Task :core:generateDebugAssets UP-TO-DATE
+> Task :core:mergeDebugAssets UP-TO-DATE
+> Task :core:mergeDebugAndroidTestAssets
+> Task :core:compressDebugAndroidTestAssets
+> Task :core:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :core:desugarDebugAndroidTestFileDependencies
+> Task :core:processDebugJavaRes UP-TO-DATE
+> Task :core:createFullJarDebug UP-TO-DATE
+> Task :core:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :core:mergeDebugJniLibFolders UP-TO-DATE
+> Task :core:mergeDebugNativeLibs NO-SOURCE
+> Task :core:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :core:mergeDebugAndroidTestJniLibFolders
+> Task :core:validateSigningDebugAndroidTest
+> Task :core:writeDebugAndroidTestSigningConfigVersions
+> Task :core:mergeDebugAndroidTestNativeLibs
+
+> Task :core:stripDebugAndroidTestDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :core:checkDebugAndroidTestDuplicateClasses
+> Task :core:processDebugAndroidTestResources
+> Task :core:mergeLibDexDebugAndroidTest
+> Task :core:kspDebugAndroidTestKotlin
+> Task :core:compileDebugAndroidTestKotlin
+> Task :core:compileDebugAndroidTestJavaWithJavac NO-SOURCE
+> Task :core:hiltAggregateDepsDebugAndroidTest
+> Task :core:hiltJavaCompileDebugAndroidTest NO-SOURCE
+> Task :core:processDebugAndroidTestJavaRes
+> Task :core:transformDebugAndroidTestClassesWithAsm
+> Task :core:dexBuilderDebugAndroidTest
+> Task :core:mergeDebugAndroidTestGlobalSynthetics
+> Task :core:mergeProjectDexDebugAndroidTest
+> Task :core:mergeDebugAndroidTestJavaResource
+> Task :core:mergeExtDexDebugAndroidTest
+> Task :core:packageDebugAndroidTest
+> Task :core:createDebugAndroidTestApkListingFileRedirect
+
+> Task :core:connectedDebugAndroidTest
+Starting 4 tests on Medium_Phone_API_36.1(AVD) - 16
+
+Finished 4 tests on Medium_Phone_API_36.1(AVD) - 16
+
+BUILD SUCCESSFUL in 29s
+55 actionable tasks: 31 executed, 24 up-to-date

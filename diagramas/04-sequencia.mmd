@@ -1,0 +1,26 @@
+sequenceDiagram
+    participant UI as Tela
+    participant VM as VM
+    participant C as Composto
+    participant N as Notícias
+    participant R as Room
+    participant U as Usuário
+    participant D as DataStore
+    VM->>C: observa feed
+    C->>U: observa dados
+    U->>D: observa
+    D-->>U: tópicos/favoritos
+    U-->>C: dados do usuário
+    C->>N: filtra tópicos
+    N->>R: consulta
+    R-->>N: notícias
+    N-->>C: notícias
+    C-->>VM: lista combinada
+    VM-->>UI: estado
+    UI->>VM: salvar(id)
+    VM->>U: marcar(id)
+    U->>D: grava
+    D-->>U: alteração
+    U-->>C: dados atualizados
+    C-->>VM: novo feed
+    VM-->>UI: novo estado

@@ -1,0 +1,13 @@
+flowchart LR
+    APP[":app<br/>navegação"] --> NEWS[":feature:news<br/>lista/detalhes"]
+    APP --> FAV[":feature:favorites<br/>salvos"]
+    subgraph CORE[":core"]
+      DOMAIN["domain<br/>caso de uso"] --> NR["data<br/>notícias"]
+      DOMAIN --> FR["data<br/>favoritos"]
+      NR --> LOCAL["catálogo<br/>local"]
+      FR --> DB["Room<br/>DAO"]
+    end
+    NEWS --> DOMAIN
+    FAV --> DOMAIN
+    NEWS -->|grava| FR
+    FAV -->|grava| FR

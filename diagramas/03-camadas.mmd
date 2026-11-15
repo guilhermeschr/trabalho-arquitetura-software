@@ -1,0 +1,5 @@
+flowchart LR
+    UI["UI<br/>Compose e ViewModels"] -->|dependência| DOM["Domain<br/>casos de uso reutilizáveis"]
+    DOM -->|dependência| DATA["Data<br/>repositórios e fontes"]
+    UI -->|dependência direta permitida| DATA
+    DATA -.->|dados por Flow| UI

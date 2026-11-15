@@ -1,0 +1,41 @@
+\section{Análise dos Stakeholders}\label{sec:stakeholders}
+A Tabela~\ref{tab:stakeholders} organiza seis papéis. As funcionalidades,
+contribuições e testes sustentam sua identificação; necessidades e conflitos
+são inferências analíticas, sem entrevistas. Não se afirma a existência de
+seis equipes separadas na organização do projeto.
+
+\begin{table*}[t]
+\caption{Stakeholders: evidência do papel e necessidades inferidas.}
+\label{tab:stakeholders}
+\centering
+\begin{tabularx}{\textwidth}{@{}lXX@{}}
+\toprule
+Parte interessada & Evidência observada & Interesse e necessidade inferidos \\
+\midrule
+Usuários & Leitura, tópicos e recursos salvos & Conteúdo pertinente, navegação clara e acesso local \\
+Desenvolvedores & Módulos, código e PRs & Compreender limites, implementar mudanças e testar isoladamente \\
+Mantenedores & Revisões, documentação e automação & Conservar coerência, estabilidade e builds viáveis \\
+Produtores de conteúdo & Série NiA referenciada pelo aplicativo & Conteúdo correto e atualizado; processo editorial não auditado \\
+Qualidade & Testes JVM, instrumentados e screenshots & Reproduzir falhas e verificar estados e persistência \\
+Plataforma Android & APIs Jetpack e objetivo de referência & Evoluir práticas e manter exemplos compreensíveis \\
+\bottomrule
+\end{tabularx}
+\end{table*}
+
+\begin{table}[htb]
+\caption{Conflitos possíveis e encaminhamentos propostos.}
+\label{tab:conflitos}
+\centering
+\begin{tabularx}{\columnwidth}{@{}XX@{}}
+\toprule
+Interesses em tensão & Encaminhamento \\
+\midrule
+Atualização do conteúdo versus rede e bateria & Leitura local e trabalho de sincronização agendado \\
+Novas APIs versus estabilidade e compreensão & Versões fixadas, revisão e testes de regressão \\
+Isolamento das features versus custo de configuração & Módulos proporcionais ao escopo e regras de dependência \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Esses conflitos não são incidentes comprovados. São hipóteses úteis para
+justificar critérios de avaliação e explicitar os custos das decisões.

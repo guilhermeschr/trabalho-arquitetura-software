@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-11-15T18:52:01.040Z" hostname="mac.local" time="0.016">
+  <properties/>
+  <testcase name="initiallyLoading" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <testcase name="loadsExpectedContent" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <testcase name="dismissesWriteError" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.001"/>
+  <testcase name="failedWritePreservesContentAndRetrySucceeds" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <testcase name="removingFavoriteUpdatesState" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <testcase name="handlesEmptyCatalog" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.001"/>
+  <testcase name="disablesDuplicateWriteWhilePending" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <testcase name="readErrorCanBeRetried" classname="br.edu.arquitetura.newsdemo.feature.news.NewsViewModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

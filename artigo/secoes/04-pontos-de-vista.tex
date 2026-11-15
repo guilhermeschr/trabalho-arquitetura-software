@@ -1,0 +1,16 @@
+\section{Pontos de Vista Arquiteturais}\label{sec:vistas}
+\textbf{Usuário.} A seleção de tópicos personaliza o feed; favoritos permitem
+reencontrar recursos. A leitura local mantém conteúdo já persistido quando
+não há rede, mas não assegura atualização nem acesso aos links externos.
+A navegação e os estados de interface tornam essas funções observáveis.
+
+\textbf{Desenvolvimento.} O módulo aplicativo reúne inicialização e navegação;
+features separam funcionalidades; componentes \texttt{core} compartilham dados,
+modelos e UI. Interfaces de repositórios e dependências explícitas apoiam
+substituição em testes. No original, features como For You usam módulos
+\texttt{api}/\texttt{impl}~\cite{nia-modularizacao}.
+
+\textbf{Operação e manutenção.} A sincronização conecta rede e persistência.
+O trabalho é coordenado pelo \texttt{Sync\allowbreak Worker}, que permite novas tentativas.
+O workflow inspecionado declara testes, build e lint. Ele evidencia mecanismos
+de verificação, sem provar ausência de falhas ou uma taxa histórica de sucesso.

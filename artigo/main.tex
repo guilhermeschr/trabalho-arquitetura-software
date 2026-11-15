@@ -1,0 +1,67 @@
+% Arquivo principal para o Overleaf. Compilador: pdfLaTeX.
+% Artigo completo; preencher apenas os dados reais de autoria antes da entrega.
+\input{preambulo-cotb}
+\usepackage{tabularx}
+\input{resultados}
+
+\begin{document}
+
+\title{Software Architecture Analysis of Now in Android}
+\translatedtitle{portuguese}{Análise da Arquitetura de Software do Now in Android}
+
+% Preencher um bloco por autor. Não inferir autoria a partir do computador.
+\author{[Nome completo do autor]}
+\affiliation{%
+  \institution{[Instituição]}
+  \streetaddress{[Endereço]}
+  \city{[Cidade]}
+  \state{[Estado]}
+  \country{Brasil}}
+% Descomentar após preencher o endereço real:
+% \email{nome@instituicao.br}
+
+\begin{abstract}
+This paper examines the software architecture of Now in Android through
+static inspection of a fixed repository revision, its architecture guides,
+modules, data flows, tests, and build workflow. The study relates stakeholder
+concerns to architectural views and a Goal/Question/Metric evaluation plan.
+The inspected code combines a layered structure, ViewModels, unidirectional
+data flow, repositories, dependency injection, and local storage with
+synchronization. An outdated use-case example in the architecture guide is
+distinguished from the current implementation. A separate four-module Android
+application demonstrates a local news catalog and persistent bookmarks using
+Compose, Flow, Hilt, and Room. The evaluation approved 36 unit tests and six instrumented tests
+in the evaluated environment. Structural checks and exploratory runtime
+measurements characterize the demonstration without establishing causal
+improvements or measuring the original application. Task completion and task
+time with actual users remain proposed evaluations. The contribution is a
+traceable connection between the inspected architecture, a smaller working
+implementation, and explicit limits on quality claims.
+\end{abstract}
+
+\keywords{Software architecture, Android, Now in Android, Modularization,
+Goal Question Metric}
+
+\maketitle
+\selectlanguage{portuguese}
+
+\input{secoes/01-introducao}
+\input{secoes/02-caracterizacao}
+\input{secoes/03-stakeholders}
+\input{secoes/04-pontos-de-vista}
+\input{secoes/05-gqm}
+\input{secoes/06-arquitetura}
+\input{secoes/07-diagramas}
+\input{secoes/08-projeto-base}
+\input{secoes/09-discussao}
+\input{secoes/10-conclusao}
+
+\section*{Declaração de Uso de Inteligência Artificial}
+O Codex auxiliou a inspeção documental, a redação, a implementação, os testes
+e a preparação de diagramas e apresentação. As evidências de execução foram
+registradas. A revisão e a responsabilidade acadêmica pelo material cabem aos
+autores, que devem conferi-lo antes da submissão.
+
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{referencias}
+\end{document}

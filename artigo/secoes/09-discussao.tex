@@ -1,0 +1,17 @@
+\section{Discussão}\label{sec:discussao}
+A demonstração evidencia separação entre interação, composição de dados e
+persistência. Repositórios e injeção permitiram controlar falhas nos testes;
+isso não demonstra redução futura de defeitos. A presença de ViewModels
+também não impede acúmulo de responsabilidades. O colaborador de estado evita
+repetição, ao custo de mais uma abstração de apresentação.
+
+Quatro módulos preservam isolamento de funcionalidades com menos configuração
+que o original. Em contrapartida, as camadas dentro do núcleo têm limites de
+pacotes, mais fracos que módulos de compilação independentes. A escolha atende
+ao escopo acadêmico, sem pretender substituir a modularização do NiA.
+
+Os resultados são exploratórios e descrevem um emulador em uma máquina,
+com APK debug, cache de disco preservado e poucas amostras. Não houve comparação controlada de
+arquiteturas nem estudo com usuários. Rótulos e áreas de toque verificáveis
+não comprovam usabilidade global. As hipóteses sobre stakeholders também
+precisariam de validação com participantes reais.

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest" tests="4" failures="0" errors="0" skipped="0" time="1.308" timestamp="2026-11-15T18:50:54" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_36.1(AVD) - 16" />
+    <property name="flavor" value="" />
+    <property name="project" value=":core" />
+  </properties>
+  <testcase name="measuresTenFavoriteFlowLatencies" classname="br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest" time="0.28" />
+  <testcase name="reactiveFlowUpdatesAfterWrites" classname="br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest" time="0.029" />
+  <testcase name="insertAndRemoveAreIdempotent" classname="br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest" time="0.059" />
+  <testcase name="favoritesSurviveDatabaseReopening" classname="br.edu.arquitetura.newsdemo.core.database.FavoritesDatabaseTest" time="0.082" />
+</testsuite>

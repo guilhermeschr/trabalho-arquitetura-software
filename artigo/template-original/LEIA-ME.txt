@@ -1,0 +1,116 @@
+XVIII COMPUTER ON THE BEACH (COTB 2027)
+Florianópolis - SC, 13 a 17 de abril de 2027
+Template LaTeX para submissão de trabalhos
+=================================================
+
+CONTEÚDO DESTE PACOTE
+----------------------
+- template_cotb2027.tex     -> arquivo principal do template (edite este)
+- acmart.cls                -> classe LaTeX (ACM sigconf) já incluída
+- ACM-Reference-Format.bst  -> estilo de bibliografia já incluído
+- figura_exemplo.png        -> imagem de exemplo usada no template
+                                (substitua pelas figuras do seu trabalho)
+- LEIA-ME.txt               -> este arquivo
+
+COMO COMPILAR
+--------------
+Este pacote é AUTOCONTIDO: não é necessário instalar a classe acmart
+separadamente. Basta manter todos os arquivos acima NA MESMA PASTA e
+compilar com pdflatex (ou XeLaTeX/LuaLaTeX):
+
+    pdflatex template_cotb2027.tex
+    pdflatex template_cotb2027.tex     (rode duas vezes para
+                                         resolver referências
+                                         cruzadas e citações)
+
+Alternativamente, faça upload de todos os arquivos deste pacote em
+um novo projeto no Overleaf (https://www.overleaf.com) e compile
+normalmente.
+
+FONTE DO TEXTO
+------------------
+A classe acmart usa oficialmente a fonte "Linux Libertine" para o
+texto, "Inconsolata" para trechos monoespaçados e "newtxmath" (com
+opção libertine) para fórmulas matemáticas - é a fonte padrão de
+publicações da ACM. Essas fontes já vêm inclusas em qualquer
+instalação completa do TeX Live (e no Overleaf). Caso sua
+distribuição LaTeX seja mínima e não tenha essas fontes instaladas,
+o pdflatex compila normalmente, mas usa uma fonte substituta
+(Computer Modern/Latin Modern) e emite avisos como "You do not have
+the libertine package installed". Para obter a aparência oficial:
+  - TeX Live: instale o pacote "texlive-fonts-extra" (ex.:
+    `tlmgr install collection-fontsextra` ou, em distribuições
+    baseadas em Ubuntu/Debian, `apt install texlive-fonts-extra`).
+  - MiKTeX: os pacotes "libertine", "inconsolata" e "newtx" são
+    instalados automaticamente na primeira compilação.
+  - Overleaf: já vem com essas fontes pré-instaladas.
+
+Caso o pacote "amssymb" seja carregado junto com as fontes Libertine
+oficiais, pode ocorrer o erro "Command \Bbbk already defined"; o
+template já contorna esse conflito automaticamente (não é
+necessário fazer nada).
+
+TRILHAS DE SUBMISSÃO
+----------------------
+(a) Artigo Completo: até 6 páginas (incluindo referências).
+    Apresentação oral em sessões técnicas.
+(b) Resumo Estendido: até 2 páginas (incluindo referências).
+    Apresentação em sessão de pôsteres.
+
+Cada trabalho pode ser submetido a apenas UMA trilha. O envio do
+mesmo trabalho a mais de uma trilha (Artigos Completos, Resumos
+Estendidos e/ou Concurso de Trabalhos Técnicos) acarreta a
+desclassificação do trabalho.
+
+IDIOMA E FORMATO
+------------------
+- O corpo do artigo pode ser escrito em português, espanhol ou inglês.
+- Submissão exclusivamente em PDF.
+
+TÍTULO, ABSTRACT E KEYWORDS (OBRIGATÓRIO EM INGLÊS)
+-------------------------------------------------------
+Independentemente do idioma do artigo, TODO trabalho deve ter:
+  - Título em inglês (\title{...});
+  - Abstract em inglês (\begin{abstract}...\end{abstract});
+  - Keywords em inglês (\keywords{...}).
+
+Se o artigo for escrito em português ou espanhol, o título deve
+aparecer TAMBÉM no idioma do artigo, logo abaixo do título em
+inglês (dois títulos, mesma formatação), usando o comando:
+    \translatedtitle{portuguese}{Título em Português}
+ou
+    \translatedtitle{spanish}{Título en Español}
+Se o artigo for escrito em inglês, não é necessário usar
+\translatedtitle (um único título, em inglês, já é suficiente).
+
+O restante do artigo (corpo do texto) deve ser escrito no idioma
+escolhido, selecionado logo após \maketitle com o comando
+\selectlanguage{portuguese|spanish|english}.
+
+DUAS VERSÕES DO ARQUIVO
+--------------------------
+1. Versão de avaliação (anônima): use a opção "anonymous" da classe
+   acmart (linha comentada no início do .tex) e remova/anonimize a
+   seção de Agradecimentos.
+2. Versão final (camera-ready): identificação completa dos autores
+   e Agradecimentos completos.
+
+Ambas as versões devem conter a seção "Declaração de Uso de
+Inteligência Artificial", informando se e como ferramentas de IA
+generativa foram utilizadas na elaboração do trabalho.
+
+Consulte os comentários no início do arquivo template_cotb2027.tex
+para instruções detalhadas.
+
+CABEÇALHO DAS PÁGINAS
+------------------------
+O cabeçalho de todas as páginas já vem pronto e é gerado
+automaticamente:
+  - Lado esquerdo: nome e edição do evento, local e datas.
+  - Lado direito: autores do trabalho.
+      * até 3 autores: lista todos os nomes;
+      * mais de 3 autores: mostra apenas o primeiro autor seguido
+        de "et al." (ex.: "Fulano de Tal et al.").
+Não é necessário editar o cabeçalho manualmente: basta preencher os
+comandos \author normalmente (um bloco para cada autor) que o
+sistema decide automaticamente o formato a ser exibido.

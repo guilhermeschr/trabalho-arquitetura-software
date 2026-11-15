@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-15T18:52:00.898Z" hostname="mac.local" time="0.14">
+  <properties/>
+  <testcase name="initiallyLoading" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.118"/>
+  <testcase name="loadsExpectedContent" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.002"/>
+  <testcase name="dismissesWriteError" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.003"/>
+  <testcase name="unknownIdHasNotFoundState" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.003"/>
+  <testcase name="failedWritePreservesContentAndRetrySucceeds" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.002"/>
+  <testcase name="removingFavoriteUpdatesState" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.002"/>
+  <testcase name="handlesEmptyCatalog" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.001"/>
+  <testcase name="disablesDuplicateWriteWhilePending" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.003"/>
+  <testcase name="readErrorCanBeRetried" classname="br.edu.arquitetura.newsdemo.feature.news.NewsDetailViewModelTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

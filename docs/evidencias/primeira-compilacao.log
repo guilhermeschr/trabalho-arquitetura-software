@@ -1,0 +1,166 @@
+Downloading https://services.gradle.org/distributions/gradle-8.13-bin.zip
+.............10%.............20%.............30%.............40%.............50%.............60%.............70%.............80%.............90%.............100%
+
+Welcome to Gradle 8.13!
+
+Here are the highlights of this release:
+ - Daemon JVM auto-provisioning
+ - Enhancements for Scala plugin and JUnit testing
+ - Improvements for build authors and plugin developers
+
+For more details see https://docs.gradle.org/8.13/release-notes.html
+
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+> Configure project :app
+w: file:///Users/guilhermeschroder/Documents/ChatGPT/Arquitetura%20de%20software%20-%20trabalho/projeto-base/app/build.gradle.kts:24:21: 'jvmTarget: String' is deprecated. Please migrate to the compilerOptions DSL. More details are here: https://kotl.in/u1r8ln
+
+> Configure project :core
+w: file:///Users/guilhermeschroder/Documents/ChatGPT/Arquitetura%20de%20software%20-%20trabalho/projeto-base/core/build.gradle.kts:21:21: 'jvmTarget: String' is deprecated. Please migrate to the compilerOptions DSL. More details are here: https://kotl.in/u1r8ln
+
+> Configure project :feature:favorites
+w: file:///Users/guilhermeschroder/Documents/ChatGPT/Arquitetura%20de%20software%20-%20trabalho/projeto-base/feature/favorites/build.gradle.kts:21:21: 'jvmTarget: String' is deprecated. Please migrate to the compilerOptions DSL. More details are here: https://kotl.in/u1r8ln
+
+> Configure project :feature:news
+w: file:///Users/guilhermeschroder/Documents/ChatGPT/Arquitetura%20de%20software%20-%20trabalho/projeto-base/feature/news/build.gradle.kts:21:21: 'jvmTarget: String' is deprecated. Please migrate to the compilerOptions DSL. More details are here: https://kotl.in/u1r8ln
+
+> Task :feature:news:preBuild UP-TO-DATE
+> Task :core:preBuild UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :feature:favorites:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :feature:favorites:preDebugBuild UP-TO-DATE
+> Task :feature:news:preDebugBuild UP-TO-DATE
+> Task :core:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:generateDebugResValues
+> Task :feature:news:generateDebugResValues
+> Task :core:generateDebugResValues
+> Task :feature:favorites:generateDebugResValues
+> Task :core:writeDebugAarMetadata
+> Task :feature:favorites:writeDebugAarMetadata
+> Task :feature:news:writeDebugAarMetadata
+> Task :app:generateDebugResources
+> Task :feature:favorites:generateDebugResources
+> Task :feature:news:generateDebugResources
+> Task :core:generateDebugResources
+> Task :feature:favorites:packageDebugResources
+> Task :feature:news:packageDebugResources
+> Task :core:packageDebugResources
+> Task :core:extractDeepLinksDebug
+> Task :feature:news:extractDeepLinksDebug
+> Task :feature:favorites:extractDeepLinksDebug
+> Task :core:processDebugManifest
+> Task :feature:news:processDebugManifest
+> Task :feature:favorites:processDebugManifest
+> Task :core:compileDebugLibraryResources
+> Task :feature:news:compileDebugLibraryResources
+> Task :feature:favorites:compileDebugLibraryResources
+> Task :feature:favorites:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature:news:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature:favorites:parseDebugLocalResources
+> Task :feature:news:parseDebugLocalResources
+> Task :core:parseDebugLocalResources
+> Task :feature:news:javaPreCompileDebug
+> Task :feature:favorites:javaPreCompileDebug
+> Task :feature:favorites:mergeDebugShaders
+> Task :feature:news:mergeDebugShaders
+> Task :feature:favorites:compileDebugShaders NO-SOURCE
+> Task :feature:news:compileDebugShaders NO-SOURCE
+> Task :feature:news:generateDebugAssets UP-TO-DATE
+> Task :feature:favorites:generateDebugAssets UP-TO-DATE
+> Task :feature:news:mergeDebugAssets
+> Task :feature:news:mergeDebugJniLibFolders
+> Task :feature:favorites:mergeDebugAssets
+> Task :feature:news:mergeDebugNativeLibs NO-SOURCE
+> Task :feature:favorites:mergeDebugJniLibFolders
+> Task :feature:favorites:mergeDebugNativeLibs NO-SOURCE
+> Task :feature:news:copyDebugJniLibsProjectOnly
+> Task :feature:favorites:generateDebugRFile
+> Task :feature:news:generateDebugRFile
+> Task :feature:favorites:copyDebugJniLibsProjectOnly
+> Task :core:javaPreCompileDebug
+> Task :core:mergeDebugShaders
+> Task :core:compileDebugShaders NO-SOURCE
+> Task :core:generateDebugAssets UP-TO-DATE
+> Task :core:generateDebugRFile
+> Task :core:mergeDebugAssets
+> Task :app:checkDebugAarMetadata
+> Task :core:mergeDebugJniLibFolders
+> Task :core:mergeDebugNativeLibs NO-SOURCE
+> Task :core:copyDebugJniLibsProjectOnly
+> Task :app:mapDebugSourceSetPaths
+> Task :app:packageDebugResources
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:parseDebugLocalResources
+> Task :app:mergeDebugResources
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:mergeDebugShaders
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:javaPreCompileDebug
+> Task :app:mergeDebugAssets
+> Task :app:compressDebugAssets
+> Task :app:desugarDebugFileDependencies
+> Task :app:mergeDebugJniLibFolders
+> Task :app:checkDebugDuplicateClasses
+> Task :app:mergeDebugNativeLibs
+> Task :core:kspDebugKotlin
+> Task :core:compileDebugKotlin
+> Task :app:processDebugManifestForPackage
+> Task :app:mergeExtDexDebug
+> Task :core:compileDebugJavaWithJavac
+> Task :core:processDebugJavaRes
+> Task :core:transformDebugClassesWithAsm
+> Task :core:bundleLibRuntimeToJarDebug
+> Task :core:bundleLibCompileToJarDebug
+> Task :core:bundleLibRuntimeToDirDebug
+> Task :core:createFullJarDebug
+> Task :feature:favorites:kspDebugKotlin
+> Task :feature:news:kspDebugKotlin
+> Task :feature:favorites:compileDebugKotlin
+> Task :feature:news:compileDebugKotlin
+> Task :feature:favorites:compileDebugJavaWithJavac
+> Task :feature:favorites:processDebugJavaRes
+> Task :feature:favorites:transformDebugClassesWithAsm
+> Task :feature:favorites:bundleLibCompileToJarDebug
+> Task :feature:favorites:bundleLibRuntimeToJarDebug
+> Task :feature:favorites:createFullJarDebug
+> Task :feature:favorites:bundleLibRuntimeToDirDebug
+> Task :feature:news:compileDebugJavaWithJavac
+> Task :feature:news:processDebugJavaRes
+> Task :feature:news:transformDebugClassesWithAsm
+> Task :feature:news:bundleLibCompileToJarDebug
+> Task :feature:news:bundleLibRuntimeToJarDebug
+> Task :feature:news:createFullJarDebug
+> Task :feature:news:bundleLibRuntimeToDirDebug
+> Task :app:validateSigningDebug
+> Task :app:writeDebugAppMetadata
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:mergeLibDexDebug
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :app:processDebugResources
+> Task :app:kspDebugKotlin
+> Task :app:compileDebugKotlin
+> Task :app:compileDebugJavaWithJavac
+> Task :app:hiltAggregateDepsDebug
+> Task :app:hiltJavaCompileDebug
+> Task :app:processDebugJavaRes
+> Task :app:transformDebugClassesWithAsm
+> Task :app:dexBuilderDebug
+> Task :app:mergeDebugGlobalSynthetics
+> Task :app:mergeProjectDexDebug
+> Task :app:mergeDebugJavaResource
+> Task :app:packageDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:assembleDebug
+
+BUILD SUCCESSFUL in 2m 46s
+109 actionable tasks: 109 executed

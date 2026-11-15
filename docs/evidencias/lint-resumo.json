@@ -1,0 +1,39 @@
+[
+  {
+    "module": [
+      "core",
+      "build"
+    ],
+    "errors": 0,
+    "warnings": {}
+  },
+  {
+    "module": [
+      "app",
+      "build"
+    ],
+    "errors": 0,
+    "warnings": {
+      "AndroidGradlePluginVersion": 3,
+      "GradleDependency": 7,
+      "NewerVersionAvailable": 7,
+      "DataExtractionRules": 1
+    }
+  },
+  {
+    "module": [
+      "feature",
+      "favorites"
+    ],
+    "errors": 0,
+    "warnings": {}
+  },
+  {
+    "module": [
+      "feature",
+      "news"
+    ],
+    "errors": 0,
+    "warnings": {}
+  }
+]

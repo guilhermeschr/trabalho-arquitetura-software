@@ -1,0 +1,23 @@
+{
+  "modules": {
+    ":app": [
+      ":core",
+      ":feature:news",
+      ":feature:favorites"
+    ],
+    ":core": [],
+    ":feature:news": [
+      ":core"
+    ],
+    ":feature:favorites": [
+      ":core"
+    ]
+  },
+  "cycles": [],
+  "cycle_count": 0,
+  "feature_edges": [],
+  "feature_edge_count": 0,
+  "forbidden_persistence_references": [],
+  "forbidden_reference_count": 0,
+  "scope": "dependências project(...) e referências textuais aos tipos de persistência; não é uma prova geral de manutenibilidade"
+}

@@ -1,0 +1,135 @@
+> Task :app:preBuild UP-TO-DATE
+> Task :core:preBuild UP-TO-DATE
+> Task :feature:news:preBuild UP-TO-DATE
+> Task :feature:favorites:preBuild UP-TO-DATE
+> Task :core:preDebugBuild UP-TO-DATE
+> Task :feature:favorites:preDebugBuild UP-TO-DATE
+> Task :feature:news:preDebugBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:writeDebugAarMetadata UP-TO-DATE
+> Task :feature:news:writeDebugAarMetadata UP-TO-DATE
+> Task :feature:favorites:writeDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :feature:news:generateDebugResValues UP-TO-DATE
+> Task :feature:favorites:generateDebugResValues UP-TO-DATE
+> Task :core:generateDebugResValues UP-TO-DATE
+> Task :feature:news:generateDebugResources UP-TO-DATE
+> Task :feature:favorites:generateDebugResources UP-TO-DATE
+> Task :core:generateDebugResources UP-TO-DATE
+> Task :feature:news:packageDebugResources UP-TO-DATE
+> Task :feature:news:extractDeepLinksDebug UP-TO-DATE
+> Task :core:packageDebugResources UP-TO-DATE
+> Task :feature:favorites:packageDebugResources UP-TO-DATE
+> Task :core:extractDeepLinksDebug UP-TO-DATE
+> Task :feature:news:processDebugManifest UP-TO-DATE
+> Task :feature:favorites:extractDeepLinksDebug UP-TO-DATE
+> Task :core:processDebugManifest UP-TO-DATE
+> Task :feature:news:compileDebugLibraryResources UP-TO-DATE
+> Task :feature:favorites:processDebugManifest UP-TO-DATE
+> Task :core:compileDebugLibraryResources UP-TO-DATE
+> Task :feature:favorites:compileDebugLibraryResources UP-TO-DATE
+> Task :feature:news:parseDebugLocalResources UP-TO-DATE
+> Task :feature:favorites:parseDebugLocalResources UP-TO-DATE
+> Task :core:parseDebugLocalResources UP-TO-DATE
+> Task :feature:favorites:generateDebugRFile UP-TO-DATE
+> Task :feature:news:generateDebugRFile UP-TO-DATE
+> Task :core:generateDebugRFile UP-TO-DATE
+> Task :feature:news:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature:favorites:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :core:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature:news:javaPreCompileDebug UP-TO-DATE
+> Task :feature:favorites:javaPreCompileDebug UP-TO-DATE
+> Task :feature:news:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature:favorites:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :feature:favorites:javaPreCompileDebugUnitTest
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :feature:news:javaPreCompileDebugUnitTest
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :core:kspDebugKotlin UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :core:compileDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :core:javaPreCompileDebug UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest
+> Task :feature:news:generateDebugUnitTestStubRFile
+> Task :feature:favorites:generateDebugUnitTestStubRFile
+> Task :core:compileDebugJavaWithJavac UP-TO-DATE
+> Task :core:transformDebugClassesWithAsm UP-TO-DATE
+> Task :core:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :core:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :core:processDebugJavaRes UP-TO-DATE
+> Task :core:createFullJarDebug UP-TO-DATE
+> Task :core:preDebugUnitTestBuild UP-TO-DATE
+> Task :feature:favorites:kspDebugKotlin UP-TO-DATE
+> Task :feature:news:kspDebugKotlin UP-TO-DATE
+> Task :core:javaPreCompileDebugUnitTest
+> Task :feature:news:compileDebugKotlin UP-TO-DATE
+> Task :feature:favorites:compileDebugKotlin UP-TO-DATE
+> Task :feature:news:compileDebugJavaWithJavac UP-TO-DATE
+> Task :core:generateDebugUnitTestStubRFile
+> Task :feature:favorites:compileDebugJavaWithJavac UP-TO-DATE
+> Task :feature:favorites:transformDebugClassesWithAsm UP-TO-DATE
+> Task :feature:news:transformDebugClassesWithAsm UP-TO-DATE
+> Task :feature:favorites:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature:news:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :feature:news:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature:favorites:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature:news:processDebugJavaRes UP-TO-DATE
+> Task :feature:news:createFullJarDebug UP-TO-DATE
+> Task :feature:favorites:processDebugJavaRes UP-TO-DATE
+> Task :feature:favorites:createFullJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac UP-TO-DATE
+> Task :app:hiltAggregateDepsDebug UP-TO-DATE
+> Task :app:hiltJavaCompileDebug UP-TO-DATE
+> Task :app:transformDebugClassesWithAsm UP-TO-DATE
+> Task :app:processDebugJavaRes UP-TO-DATE
+> Task :app:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :app:kspDebugUnitTestKotlin NO-SOURCE
+> Task :app:compileDebugUnitTestKotlin NO-SOURCE
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToRuntimeJar
+> Task :app:hiltAggregateDepsDebugUnitTest
+> Task :app:hiltJavaCompileDebugUnitTest NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes NO-SOURCE
+> Task :app:transformDebugUnitTestClassesWithAsm
+> Task :app:testDebugUnitTest NO-SOURCE
+> Task :feature:favorites:kspDebugUnitTestKotlin
+> Task :feature:news:kspDebugUnitTestKotlin
+> Task :core:kspDebugUnitTestKotlin
+> Task :feature:favorites:compileDebugUnitTestKotlin
+> Task :feature:favorites:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature:news:compileDebugUnitTestKotlin
+> Task :feature:news:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :feature:favorites:hiltAggregateDepsDebugUnitTest
+> Task :feature:favorites:hiltJavaCompileDebugUnitTest NO-SOURCE
+> Task :feature:news:hiltAggregateDepsDebugUnitTest
+> Task :feature:news:hiltJavaCompileDebugUnitTest NO-SOURCE
+> Task :feature:favorites:processDebugUnitTestJavaRes
+> Task :feature:news:processDebugUnitTestJavaRes
+> Task :feature:favorites:transformDebugUnitTestClassesWithAsm
+> Task :feature:news:transformDebugUnitTestClassesWithAsm
+> Task :core:compileDebugUnitTestKotlin
+> Task :core:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :core:hiltAggregateDepsDebugUnitTest
+> Task :core:hiltJavaCompileDebugUnitTest NO-SOURCE
+> Task :core:processDebugUnitTestJavaRes
+> Task :core:transformDebugUnitTestClassesWithAsm
+> Task :feature:favorites:testDebugUnitTest
+> Task :core:testDebugUnitTest
+> Task :feature:news:testDebugUnitTest
+
+BUILD SUCCESSFUL in 5s
+104 actionable tasks: 28 executed, 76 up-to-date

@@ -1,0 +1,35 @@
+\section{Atributos de Qualidade com GQM}\label{sec:gqm}
+O GQM deriva medidas de objetivos e perguntas, exigindo interpretação no
+contexto de avaliação~\cite{basili1994}. A Tabela~\ref{tab:gqm} apresenta quatro
+objetivos e três perguntas por atributo. Para o NiA, trata-se de um plano
+apoiado na inspeção; a coleta técnica foi aplicada ao aplicativo demonstrativo.
+
+\begin{table*}[t]
+\caption{Plano GQM. M: manutenibilidade; T: testabilidade; D: desempenho;
+U: usabilidade. Medidas de tarefas com pessoas permanecem propostas.}
+\label{tab:gqm}
+\centering
+\begin{tabularx}{\textwidth}{@{}lXXX@{}}
+\toprule
+Objetivo & Pergunta & Métrica/unidade & Estratégia de avaliação \\
+\midrule
+M: separar responsabilidades & Há ciclos entre módulos? & Quantidade de ciclos & Extrair e percorrer o grafo Gradle \\
+M & Há dependências entre features? & Arestas feature--feature & Filtrar dependências diretas \\
+M & A UI conhece a persistência? & Referências indevidas & Buscar tipos de Room/DAO nas features e UI \\
+T: verificar com isolamento & Classes aceitam substitutos? & Classes testadas com fakes & Inspecionar casos e dependências dos testes \\
+T & Os casos previstos passam? & Aprovados/executados & Consolidar relatórios JUnit \\
+T & Quanto custa executar a suíte? & Tempo de parede (s) & Cronometrar a chamada de testes unitários \\
+D: caracterizar execução & Quanto leva iniciar a Activity? & Mediana e intervalo (ms) & Dez reinícios do processo; \texttt{am start -W} \\
+D & Quanto leva atualizar o fluxo? & Latência de emissão (ms) & Dez gravações alternadas com coletor ativo \\
+D & Qual o uso após o roteiro? & PSS (MiB) & Uma captura \texttt{dumpsys meminfo} \\
+U: avaliar clareza das ações & Controles têm rótulo e área? & Aprovados/5; mínimo 48 dp & Inspeção automatizada de cinco controles \\
+U & Leitores concluem as tarefas? & Conclusões/tentativas (\%) & Sessões com pessoas: avaliação proposta \\
+U & Quanto demoram nas tarefas? & Tempo por tarefa (s) & Cronometragem: avaliação proposta \\
+\bottomrule
+\end{tabularx}
+\end{table*}
+
+As métricas estruturais se relacionam à modularização e ao encapsulamento; as
+de testes, às interfaces injetáveis; tempos e memória, à execução reativa; e
+os controles, à apresentação. Nenhuma medida isolada comprova o atributo
+inteiro. Sem comparação ou baseline, não se atribui causalidade à arquitetura.

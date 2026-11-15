@@ -1,0 +1,39 @@
+\section{Caracterização do Projeto Estudado}\label{sec:projeto}
+O NiA apresenta conteúdos da série Now in Android e permite acompanhar tópicos
+e salvar recursos. Atende leitores interessados no ecossistema e
+programadores que estudam suas práticas. O recorte usa o commit
+\texttt{2982e63}, de 20/10/2026; o hash completo, os arquivos consultados e os
+links permanentes estão no relatório complementar. A coleta foi realizada
+em 15/11/2026. A Tabela~\ref{tab:caracterizacao} resume a elegibilidade.
+
+\begin{table}[htb]
+\caption{Caracterização e evidências do NiA na revisão estudada.}
+\label{tab:caracterizacao}
+\centering
+\begin{tabularx}{\columnwidth}{@{}lX@{}}
+\toprule
+Aspecto & Evidência \\
+\midrule
+Licença & Apache 2.0 \\
+Tecnologias & Kotlin, Compose, Flow, Hilt, Room, DataStore e WorkManager \\
+Contribuições & 1.407 PRs, abertas e encerradas, na consulta à API GitHub \\
+Atividade & PR \#2142 integrada em 20/10/2026 \\
+Testes recentes & \texttt{For\allowbreak You\allowbreak View\allowbreak Model\allowbreak Test} alterado em 16/10/2026 \\
+Automação & Workflow \texttt{Build.yaml}: testes, APKs, screenshots e lint \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+A existência desses artefatos atende ao recorte exigido de atividade e testes
+recentes, mas não significa que a suíte original tenha sido executada neste
+estudo. A Figura~\ref{fig:contexto} delimita o contexto operacional.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{imagens/01-contexto.pdf}
+\caption{Contexto do NiA: interação do leitor, conteúdo remoto, navegação
+externa e serviços da plataforma. Armazenamentos internos são detalhados nas
+outras vistas.}
+\Description{O usuário explora o aplicativo; o aplicativo sincroniza com a API e abre links no navegador; a plataforma Android executa e agenda trabalho.}
+\label{fig:contexto}
+\end{figure*}

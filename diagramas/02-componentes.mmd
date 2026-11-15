@@ -1,0 +1,13 @@
+flowchart TB
+    F["feature:foryou:impl<br/>ViewModel"] --> D["core:domain<br/>tópicos seguidos"]
+    F --> C["core:data<br/>repositório composto"]
+    F --> U["core:data<br/>dados do usuário"]
+    D --> T["repositório de tópicos"]
+    D --> U
+    C --> N["repositório de notícias"]
+    C --> U
+    N --> DB["core:database · Room"]
+    N --> NET["core:network · API"]
+    U --> DS["core:datastore · Proto DataStore"]
+    W["sync:work<br/>SyncWorker"] --> N
+    W --> T

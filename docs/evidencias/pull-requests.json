@@ -1,0 +1,83 @@
+{
+  "consultado_em": "2026-11-15",
+  "url": "https://api.github.com/search/issues?q=repo%3Aandroid%2Fnowinandroid+is%3Apr&per_page=1",
+  "response": {
+    "total_count": 1407,
+    "incomplete_results": false,
+    "items": [
+      {
+        "url": "https://api.github.com/repos/android/nowinandroid/issues/2142",
+        "repository_url": "https://api.github.com/repos/android/nowinandroid",
+        "labels_url": "https://api.github.com/repos/android/nowinandroid/issues/2142/labels{/name}",
+        "comments_url": "https://api.github.com/repos/android/nowinandroid/issues/2142/comments",
+        "events_url": "https://api.github.com/repos/android/nowinandroid/issues/2142/events",
+        "html_url": "https://github.com/android/nowinandroid/pull/2142",
+        "id": 5888647693,
+        "node_id": "PR_kwDOHNAj7s8AAAABI5gOfQ",
+        "number": 2142,
+        "title": "Integrate Navigation 3 deep linking.",
+        "user": {
+          "login": "claraf3",
+          "id": 63677432,
+          "node_id": "MDQ6VXNlcjYzNjc3NDMy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/63677432?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/claraf3",
+          "html_url": "https://github.com/claraf3",
+          "followers_url": "https://api.github.com/users/claraf3/followers",
+          "following_url": "https://api.github.com/users/claraf3/following{/other_user}",
+          "gists_url": "https://api.github.com/users/claraf3/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/claraf3/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/claraf3/subscriptions",
+          "organizations_url": "https://api.github.com/users/claraf3/orgs",
+          "repos_url": "https://api.github.com/users/claraf3/repos",
+          "events_url": "https://api.github.com/users/claraf3/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/claraf3/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "closed",
+        "locked": false,
+        "assignees": [],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-10-16T17:45:39Z",
+        "updated_at": "2026-10-20T23:08:44Z",
+        "closed_at": "2026-10-20T23:08:44Z",
+        "assignee": null,
+        "author_association": "COLLABORATOR",
+        "issue_field_values": [],
+        "type": null,
+        "active_lock_reason": null,
+        "draft": false,
+        "pull_request": {
+          "url": "https://api.github.com/repos/android/nowinandroid/pulls/2142",
+          "html_url": "https://github.com/android/nowinandroid/pull/2142",
+          "diff_url": "https://github.com/android/nowinandroid/pull/2142.diff",
+          "patch_url": "https://github.com/android/nowinandroid/pull/2142.patch",
+          "merged_at": "2026-10-20T23:08:44Z"
+        },
+        "body": "Integrate Navigation 3 deep linking.\r\n\r\n- Updated Navigation 3 library to 1.2.0 (with compileSdk 37 and minSdk 24) to support the Navigation 3 deep link APIs.\r\n\r\n- Converted ForYouNavKey into a data class with an optional linkedNewsResourceId parameter, match incoming deep link intents in MainActivity using UriDeepLinkMatcher, and pass the matched key through rememberNiaAppState and rememberNavigationState to initialize the starting sub-stack.\r\n\r\n- Passed ForYouNavKey to ForYouViewModel via assisted injection so deepLinkedNewsResource is initialized from the navigation key.\r\n\r\n- Added NavigationState.isAtTopLevel to keep the top app bar visible and handle back navigation when the root of a sub-stack is a deep link key.",
+        "reactions": {
+          "url": "https://api.github.com/repos/android/nowinandroid/issues/2142/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/android/nowinandroid/issues/2142/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null,
+        "score": 1.0
+      }
+    ],
+    "search_type": "lexical"
+  }
+}
