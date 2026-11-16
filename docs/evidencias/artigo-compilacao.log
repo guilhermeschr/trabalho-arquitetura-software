@@ -1,552 +1,220 @@
-note: Running TeX ...
-warning: libertine.sty:308: 
-Requested font "[LinLibertine_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 8.99997pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 8.99997pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 8.99997pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 8.99997pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 8.99997pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT" at 8.99997pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Bold.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: main.tex:7: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: main.tex:7: 
-Requested font "MinLibReg-ot1" at 7.3pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "MinLibReg-ot1" at 5.5pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "nxlmi7" at 7.3pt
-warning: main.tex:7:  -> nxlmi7
-warning: main.tex:7: Requested font "nxlmi5" at 5.5pt
-warning: main.tex:7:  -> nxlmi5
-warning: main.tex:7: Requested font "ntxsy7" at 7.3pt
-warning: main.tex:7:  -> ntxsy7
-warning: main.tex:7: Requested font "ntxsy5" at 5.5pt
-warning: main.tex:7:  -> ntxsy5
-warning: main.tex:7: Requested font "ntxexx" at 7.3pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: Requested font "ntxexx" at 5.5pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: 
-Requested font "msam7" at 7.3pt
-warning: main.tex:7:  -> msam7
-warning: main.tex:7: Requested font "msam5" at 5.5pt
-warning: main.tex:7:  -> msam5
-warning: main.tex:7: 
-Requested font "msbm7" at 7.3pt
-warning: main.tex:7:  -> msbm7
-warning: main.tex:7: Requested font "msbm5" at 5.5pt
-warning: main.tex:7:  -> msbm5
-warning: main.tex:7: 
-Requested font "nxlmia" at 7.3pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: Requested font "nxlmia" at 5.5pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: 
-Requested font "ntxsym" at 7.3pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: Requested font "ntxsym" at 5.5pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: 
-Requested font "ntxsyc" at 7.3pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxsyc" at 5.5pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxexa" at 7.3pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:7: Requested font "ntxexa" at 5.5pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
-warning: secoes/02-caracterizacao:5: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;+ss03;" at 9.0pt
-warning: secoes/02-caracterizacao:24: Requested font "MinLibReg-ot1" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> MinLibReg-ot1
-warning: secoes/02-caracterizacao:24: Requested font "nxlmi" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmi
-warning: secoes/02-caracterizacao:24: Requested font "ntxsy" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsy
-warning: secoes/02-caracterizacao:24: Requested font "ntxexx" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexx
-warning: secoes/02-caracterizacao:24: Requested font "msam10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msam10
-warning: secoes/02-caracterizacao:24: 
-Requested font "msbm10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msbm10
-warning: secoes/02-caracterizacao:24: 
-Requested font "nxlmia" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmia
-warning: secoes/02-caracterizacao:24: Requested font "ntxsym" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsym
-warning: secoes/02-caracterizacao:24: Requested font "ntxsyc" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsyc
-warning: secoes/02-caracterizacao:24: Requested font "ntxexa" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexa
-warning: secoes/02-caracterizacao:24: Underfull \hbox (badness 10000) in paragraph at lines 24--24
-warning: secoes/03-stakeholders:37: Underfull \hbox (badness 1546) in paragraph at lines 37--37
-warning: secoes/05-gqm:6: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 6.0pt
-warning: secoes/05-gqm:29: Underfull \hbox (badness 4995) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 2111) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 5274) in paragraph at lines 29--29
-warning: secoes/06-arquitetura:9: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:50: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:54: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:55: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/10-conclusao:6: Underfull \vbox (badness 4416) has occurred while \output is active
-warning: main.tex:59: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.tex:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.tex:67: Overfull \vbox (7.875pt too high) has occurred while \output is active
-warning: main.tex:67: Overfull \vbox (10.01698pt too high) has occurred while \output is active
-note: Running BibTeX on main.aux ...
-note: warnings were issued by BibTeX; use --print and/or --keep-logs for details.
-note: Rerunning TeX because bibtex was run ...
-warning: libertine.sty:308: 
-Requested font "[LinLibertine_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 8.99997pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 8.99997pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 8.99997pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 8.99997pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 8.99997pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT" at 8.99997pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Bold.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: main.tex:7: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: main.tex:7: 
-Requested font "MinLibReg-ot1" at 7.3pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "MinLibReg-ot1" at 5.5pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "nxlmi7" at 7.3pt
-warning: main.tex:7:  -> nxlmi7
-warning: main.tex:7: Requested font "nxlmi5" at 5.5pt
-warning: main.tex:7:  -> nxlmi5
-warning: main.tex:7: Requested font "ntxsy7" at 7.3pt
-warning: main.tex:7:  -> ntxsy7
-warning: main.tex:7: Requested font "ntxsy5" at 5.5pt
-warning: main.tex:7:  -> ntxsy5
-warning: main.tex:7: Requested font "ntxexx" at 7.3pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: Requested font "ntxexx" at 5.5pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: 
-Requested font "msam7" at 7.3pt
-warning: main.tex:7:  -> msam7
-warning: main.tex:7: Requested font "msam5" at 5.5pt
-warning: main.tex:7:  -> msam5
-warning: main.tex:7: 
-Requested font "msbm7" at 7.3pt
-warning: main.tex:7:  -> msbm7
-warning: main.tex:7: Requested font "msbm5" at 5.5pt
-warning: main.tex:7:  -> msbm5
-warning: main.tex:7: 
-Requested font "nxlmia" at 7.3pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: Requested font "nxlmia" at 5.5pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: 
-Requested font "ntxsym" at 7.3pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: Requested font "ntxsym" at 5.5pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: 
-Requested font "ntxsyc" at 7.3pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxsyc" at 5.5pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxexa" at 7.3pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:7: Requested font "ntxexa" at 5.5pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
-warning: secoes/02-caracterizacao:5: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;+ss03;" at 9.0pt
-warning: secoes/02-caracterizacao:24: Requested font "MinLibReg-ot1" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> MinLibReg-ot1
-warning: secoes/02-caracterizacao:24: Requested font "nxlmi" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmi
-warning: secoes/02-caracterizacao:24: Requested font "ntxsy" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsy
-warning: secoes/02-caracterizacao:24: Requested font "ntxexx" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexx
-warning: secoes/02-caracterizacao:24: Requested font "msam10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msam10
-warning: secoes/02-caracterizacao:24: 
-Requested font "msbm10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msbm10
-warning: secoes/02-caracterizacao:24: 
-Requested font "nxlmia" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmia
-warning: secoes/02-caracterizacao:24: Requested font "ntxsym" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsym
-warning: secoes/02-caracterizacao:24: Requested font "ntxsyc" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsyc
-warning: secoes/02-caracterizacao:24: Requested font "ntxexa" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexa
-warning: secoes/02-caracterizacao:24: Underfull \hbox (badness 10000) in paragraph at lines 24--24
-warning: secoes/03-stakeholders:37: Underfull \hbox (badness 1546) in paragraph at lines 37--37
-warning: secoes/05-gqm:6: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 6.0pt
-warning: secoes/05-gqm:29: Underfull \hbox (badness 4995) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 2111) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 5274) in paragraph at lines 29--29
-warning: secoes/06-arquitetura:9: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:50: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:54: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:55: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/10-conclusao:6: Underfull \vbox (badness 4416) has occurred while \output is active
-warning: main.tex:59: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.tex:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:91: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: main.tex:67: Overfull \vbox (1.341pt too high) has occurred while \output is active
-note: Rerunning TeX because "main.aux" changed ...
-warning: libertine.sty:308: 
-Requested font "[LinLibertine_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 8.99997pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 8.99997pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 8.99997pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 8.99997pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 8.99997pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT" at 8.99997pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Bold.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: main.tex:7: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: main.tex:7: 
-Requested font "MinLibReg-ot1" at 7.3pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "MinLibReg-ot1" at 5.5pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "nxlmi7" at 7.3pt
-warning: main.tex:7:  -> nxlmi7
-warning: main.tex:7: Requested font "nxlmi5" at 5.5pt
-warning: main.tex:7:  -> nxlmi5
-warning: main.tex:7: Requested font "ntxsy7" at 7.3pt
-warning: main.tex:7:  -> ntxsy7
-warning: main.tex:7: Requested font "ntxsy5" at 5.5pt
-warning: main.tex:7:  -> ntxsy5
-warning: main.tex:7: Requested font "ntxexx" at 7.3pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: Requested font "ntxexx" at 5.5pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: 
-Requested font "msam7" at 7.3pt
-warning: main.tex:7:  -> msam7
-warning: main.tex:7: Requested font "msam5" at 5.5pt
-warning: main.tex:7:  -> msam5
-warning: main.tex:7: 
-Requested font "msbm7" at 7.3pt
-warning: main.tex:7:  -> msbm7
-warning: main.tex:7: Requested font "msbm5" at 5.5pt
-warning: main.tex:7:  -> msbm5
-warning: main.tex:7: 
-Requested font "nxlmia" at 7.3pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: Requested font "nxlmia" at 5.5pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: 
-Requested font "ntxsym" at 7.3pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: Requested font "ntxsym" at 5.5pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: 
-Requested font "ntxsyc" at 7.3pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxsyc" at 5.5pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxexa" at 7.3pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:7: Requested font "ntxexa" at 5.5pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
-warning: secoes/02-caracterizacao:5: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;+ss03;" at 9.0pt
-warning: secoes/02-caracterizacao:24: Requested font "MinLibReg-ot1" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> MinLibReg-ot1
-warning: secoes/02-caracterizacao:24: Requested font "nxlmi" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmi
-warning: secoes/02-caracterizacao:24: Requested font "ntxsy" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsy
-warning: secoes/02-caracterizacao:24: Requested font "ntxexx" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexx
-warning: secoes/02-caracterizacao:24: Requested font "msam10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msam10
-warning: secoes/02-caracterizacao:24: 
-Requested font "msbm10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msbm10
-warning: secoes/02-caracterizacao:24: 
-Requested font "nxlmia" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmia
-warning: secoes/02-caracterizacao:24: Requested font "ntxsym" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsym
-warning: secoes/02-caracterizacao:24: Requested font "ntxsyc" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsyc
-warning: secoes/02-caracterizacao:24: Requested font "ntxexa" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexa
-warning: secoes/02-caracterizacao:24: Underfull \hbox (badness 10000) in paragraph at lines 24--24
-warning: secoes/03-stakeholders:37: Underfull \hbox (badness 1546) in paragraph at lines 37--37
-warning: secoes/05-gqm:6: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 6.0pt
-warning: secoes/05-gqm:29: Underfull \hbox (badness 4995) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 2111) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 5274) in paragraph at lines 29--29
-warning: secoes/06-arquitetura:63: Underfull \vbox (badness 2285) has occurred while \output is active
-warning: secoes/06-arquitetura:63: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/08-projeto-base:37: Underfull \vbox (badness 6477) has occurred while \output is active
-warning: main.tex:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.bbl:53: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:91: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-note: Rerunning TeX because "main.aux" changed ...
-warning: libertine.sty:308: 
-Requested font "[LinLibertine_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_RBI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:308: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 8.99997pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:319: Requested font "[LinBiolinum_RBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 8.99997pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZ.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:338: Requested font "[LinLibertine_RZI.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 8.99997pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT" at 9.00003pt
-warning: libertine.sty:361: Requested font "[LinLibertine_DR.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 8.99997pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_M.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MB.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:435: Requested font "[LinLibertine_MBO.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 8.99997pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT" at 9.00003pt
-warning: libertine.sty:436: Requested font "[LinBiolinum_K.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 8.99997pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT" at 9.00003pt
-warning: libertine.sty:437: Requested font "[LinLibertine_I.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT" at 8.99997pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: acmart.cls:871: Requested font "[Inconsolatazi4-Bold.otf]/OT:script=latn;language=dflt;" at 9.00003pt
-warning: main.tex:7: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: main.tex:7: 
-Requested font "MinLibReg-ot1" at 7.3pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "MinLibReg-ot1" at 5.5pt
-warning: main.tex:7:  -> MinLibReg-ot1
-warning: main.tex:7: Requested font "nxlmi7" at 7.3pt
-warning: main.tex:7:  -> nxlmi7
-warning: main.tex:7: Requested font "nxlmi5" at 5.5pt
-warning: main.tex:7:  -> nxlmi5
-warning: main.tex:7: Requested font "ntxsy7" at 7.3pt
-warning: main.tex:7:  -> ntxsy7
-warning: main.tex:7: Requested font "ntxsy5" at 5.5pt
-warning: main.tex:7:  -> ntxsy5
-warning: main.tex:7: Requested font "ntxexx" at 7.3pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: Requested font "ntxexx" at 5.5pt
-warning: main.tex:7:  -> ntxexx
-warning: main.tex:7: 
-Requested font "msam7" at 7.3pt
-warning: main.tex:7:  -> msam7
-warning: main.tex:7: Requested font "msam5" at 5.5pt
-warning: main.tex:7:  -> msam5
-warning: main.tex:7: 
-Requested font "msbm7" at 7.3pt
-warning: main.tex:7:  -> msbm7
-warning: main.tex:7: Requested font "msbm5" at 5.5pt
-warning: main.tex:7:  -> msbm5
-warning: main.tex:7: 
-Requested font "nxlmia" at 7.3pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: Requested font "nxlmia" at 5.5pt
-warning: main.tex:7:  -> nxlmia
-warning: main.tex:7: 
-Requested font "ntxsym" at 7.3pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: Requested font "ntxsym" at 5.5pt
-warning: main.tex:7:  -> ntxsym
-warning: main.tex:7: 
-Requested font "ntxsyc" at 7.3pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxsyc" at 5.5pt
-warning: main.tex:7:  -> ntxsyc
-warning: main.tex:7: Requested font "ntxexa" at 7.3pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:7: Requested font "ntxexa" at 5.5pt
-warning: main.tex:7:  -> ntxexa
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 17.28pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 12.0pt
-warning: main.tex:45: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 9.0pt
-warning: main.tex:45: Requested font "[LinLibertine_RB.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 10.95pt
-warning: secoes/02-caracterizacao:5: 
-Requested font "[Inconsolatazi4-Regular.otf]/OT:script=latn;language=dflt;+ss03;" at 9.0pt
-warning: secoes/02-caracterizacao:24: Requested font "MinLibReg-ot1" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> MinLibReg-ot1
-warning: secoes/02-caracterizacao:24: Requested font "nxlmi" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmi
-warning: secoes/02-caracterizacao:24: Requested font "ntxsy" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsy
-warning: secoes/02-caracterizacao:24: Requested font "ntxexx" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexx
-warning: secoes/02-caracterizacao:24: Requested font "msam10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msam10
-warning: secoes/02-caracterizacao:24: 
-Requested font "msbm10" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> msbm10
-warning: secoes/02-caracterizacao:24: 
-Requested font "nxlmia" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> nxlmia
-warning: secoes/02-caracterizacao:24: Requested font "ntxsym" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsym
-warning: secoes/02-caracterizacao:24: Requested font "ntxsyc" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxsyc
-warning: secoes/02-caracterizacao:24: Requested font "ntxexa" at 9.0pt
-warning: secoes/02-caracterizacao:24:  -> ntxexa
-warning: secoes/02-caracterizacao:24: Underfull \hbox (badness 10000) in paragraph at lines 24--24
-warning: secoes/03-stakeholders:37: Underfull \hbox (badness 1546) in paragraph at lines 37--37
-warning: secoes/05-gqm:6: Requested font "[LinLibertine_R.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 6.0pt
-warning: secoes/05-gqm:29: Underfull \hbox (badness 4995) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 2111) in paragraph at lines 29--29
-warning: secoes/05-gqm:29: Underfull \hbox (badness 5274) in paragraph at lines 29--29
-warning: secoes/06-arquitetura:63: Underfull \vbox (badness 2285) has occurred while \output is active
-warning: secoes/06-arquitetura:63: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/06-arquitetura:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: secoes/08-projeto-base:37: Underfull \vbox (badness 6477) has occurred while \output is active
-warning: main.tex:64: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.bbl:53: Underfull \vbox (badness 10000) has occurred while \output is active
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:68: Underfull \hbox (badness 10000) in paragraph at lines 57--68
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:83: Underfull \hbox (badness 10000) in paragraph at lines 72--83
-warning: main.bbl:91: Requested font "[LinLibertine_RI.otf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;" at 7.0pt
-warning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.
-note: Running xdvipdfmx ...
-note: Writing `../tmp/pdfs/main.aux` (7.91796875 KiB)
-note: Writing `../tmp/pdfs/main.bbl` (4.6630859375 KiB)
-note: Writing `../tmp/pdfs/main.log` (77.181640625 KiB)
-note: Writing `../tmp/pdfs/main.out` (2.521484375 KiB)
-note: Writing `../tmp/pdfs/main.blg` (266 B)
-note: Writing `../tmp/pdfs/main.pdf` (196.630859375 KiB)
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16> (./preambulo-cotb.tex (./acmart.cls
+Document Class: acmart 2024/02/04 v2.03 Typesetting articles for the Associatio
+n for Computing Machinery
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))))
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2020/05/29 v2.20.6
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/totpages/totpages.sty
+(/usr/share/texlive/texmf-dist/tex/latex/everyshi/everyshi.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuguese.ldf)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty<<t1.cmap>>)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/zi4.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe))
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/newtxmath.sty
+`newtxmath' v1.71, 2022/01/16 Math macros based originally on txfonts (msharpe)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/centernot.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kastrup/binhex.tex)
+amsthm NOT loaded
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-ams-smf.sto)))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+Excluding comment 'comment') Excluding comment 'CCSXML'
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+Special comment 'acks'
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)) (./resultados.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/balance.sty)
+Include comment 'screenonly' Excluding comment 'printonly'
+Include comment 'anonsuppress'
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+
+LaTeX Warning: Unused global option(s):
+    [language=portuguese,language=spanish,language=english].
+
+(./main.aux) (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlnxlmi.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd)<<
+ot1.cmap>><<oml.cmap>>
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd) (./main.out)
+(./main.out) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(./secoes/01-introducao.tex) (./secoes/02-fundamentacao.tex
+Underfull \vbox (badness 4981) has occurred while \output is active
+Overfull \hbox (4.9893pt too wide) in paragraph at lines 16--21
+[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Os atri-bu-tos ava-li-a-dos se-guem a ter
+-mi-no-lo-gia da ISO/IEC 25010 [[]]:
+) (./secoes/03-metodos.tex
+(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd))
+(./secoes/04-caracterizacao.tex
+Underfull \vbox (badness 10000) has occurred while \output is active [1.1{/var/
+lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./secoes/05-stakeholders.tex)
+(./secoes/06-pontos-de-vista.tex) (./secoes/07-gqm.tex
+Underfull \hbox (badness 3557) in paragraph at lines 28--28
+[]|\T1/LinuxLibertineT-TLF/m/n/9 (+20) Dez rei-ní-cios do pro-cesso; \T1/zi4/m/
+n/9 am
+
+Underfull \hbox (badness 2096) in paragraph at lines 28--28
+[]|\T1/LinuxLibertineT-TLF/m/n/9 (+20) Cronometragem: ava-li-a-ção pro-
+) (./secoes/08-arquitetura.tex
+Underfull \vbox (badness 10000) has occurred while \output is active [2.2 <./im
+agens/01-contexto.pdf>] [3.3 <./imagens/02-componentes.pdf>])
+(./secoes/09-diagramas.tex
+Underfull \vbox (badness 2689) has occurred while \output is active)
+(./secoes/10-projeto-base.tex
+Underfull \vbox (badness 10000) has occurred while \output is active [4.4 <./im
+agens/03-camadas.pdf>]) (./secoes/11-discussao.tex
+Underfull \vbox (badness 10000) has occurred while \output is active)
+(./secoes/12-conclusao.tex
+Underfull \vbox (badness 10000) has occurred while \output is active [5.5 <./im
+agens/04-sequencia.pdf>]) (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 57--68
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) Android Open Source Pro-ject. s.d.  Now i
+n An-droid: Ar-
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--68
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) chi-tec-ture Le-ar-ning Jour-ney.    [][]$h
+ttps : / / github . com / android /
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--68
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) nowinandroid / blob / 2982e63cb691ad49cd009
+aab43dc206fee6699c2 / docs /
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) Android Open Source Pro-ject. s.d.  Now i
+n An-droid: Mo-du-
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) la-ri-za-tion Le-ar-ning Jour-ney.    [][]$
+https : / / github . com / android /
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--83
+\T1/LinuxLibertineT-TLF/m/n/7 (+20) nowinandroid / blob / 2982e63cb691ad49cd009
+aab43dc206fee6699c2 / docs /
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def)
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[6.6 <./imagens/05-demo.pdf>] (./main.aux) )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/usr/share/texlive/texmf-dist/font
+s/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/
+dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
+libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libert
+ine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/inconsola
+ta/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liber
+tine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libert
+ine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liberti
+ne/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/liberti
+ne/LinLibertineTI.pfb>
+Output written on main.pdf (6 pages, 484367 bytes).
+Transcript written on main.log.

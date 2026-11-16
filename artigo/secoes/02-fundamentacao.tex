@@ -1,0 +1,25 @@
+\section{Fundamentação Teórica}\label{sec:fundamentacao}
+A arquitetura de software é o conjunto de estruturas necessárias para
+raciocinar sobre um sistema, compreendendo elementos, relações e
+propriedades~\cite{bass2021}. Suas decisões são avaliadas pelos atributos de
+qualidade que favorecem ou prejudicam, e não apenas pelas funções que
+viabilizam.
+
+A ISO/IEC/IEEE 42010 define stakeholders como partes com interesses
+(\emph{concerns}) no sistema e organiza a descrição arquitetural em pontos
+de vista, que estabelecem convenções, e vistas, que os aplicam a um sistema
+concreto~\cite{iso42010}. O modelo 4+1 de Kruchten~\cite{kruchten1995} e o
+catálogo de Rozanski e Woods~\cite{rozanski2011} mostram que nenhuma vista
+isolada atende a todos os interessados; por isso, este trabalho combina
+vistas de usuário, desenvolvimento e operação.
+
+Os atributos avaliados seguem a terminologia da ISO/IEC 25010~\cite{iso25010}:
+manutenibilidade, com testabilidade e modularidade como subcaracterísticas,
+eficiência de desempenho e usabilidade. Como esses atributos são amplos, o
+paradigma Goal/Question/Metric (GQM) deriva medidas de objetivos e perguntas,
+exigindo interpretação no contexto de avaliação~\cite{basili1994}.
+
+No Android, a orientação oficial recomenda separar UI e dados, com domínio
+opcional, fluxo unidirecional de dados (UDF) e fontes observáveis~\cite{android-arquitetura,android-dominio}.
+Na abordagem offline-first, a fonte local é a referência para leitura e a
+rede apenas a atualiza~\cite{android-offline}.

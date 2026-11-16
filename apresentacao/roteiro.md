@@ -1,6 +1,6 @@
 # Roteiro de apresentação — 15 minutos
 
-Estudo de caso do Now in Android e demonstração local. Reservar mais cinco minutos para perguntas. Preencher nome(s) e instituição no primeiro slide.
+Estudo de caso do Now in Android e demonstração local. Reservar mais cinco minutos para perguntas.
 
 ## Slide 1 — Objetivo do trabalho (00:00–01:00)
 
