@@ -23,7 +23,7 @@ comandos de compilação e teste abaixo pertencem ao News Architecture Demo.
 | `python3 scripts/verificar_arquitetura.py` | 0 ciclos; 0 arestas entre features; 0 referências proibidas no recorte da UI |
 | `python3 scripts/demonstrar.py --reset` | Percurso concluído; favorito sobreviveu a force-stop e reabertura; remoção refletida entre telas |
 | `python3 scripts/medir_inicializacao.py` | 10 amostras coletadas após 1 aquecimento excluído |
-| Tectonic 0.17.0 com BibTeX | Artigo compilado em 6 páginas, renderizado e revisado; sem referências indefinidas ou caixas ultrapassando colunas |
+| pdfLaTeX + BibTeX (TeX Live 2022) | Artigo compilado em 6 páginas, renderizado e revisado; sem referências indefinidas ou caixas ultrapassando colunas |
 | Exportação e validação do PowerPoint | 12 slides, 4 tabelas nativas, diagramas editáveis, notas e 2 capturas incorporadas; arquivos revisados visualmente |
 
 Os logs finais e os relatórios JUnit estão em `evidencias`. A suíte unitária
@@ -55,8 +55,8 @@ do emulador. Não foi feita comparação controlada entre arquiteturas.
 - A verificação de controles identificou área de voltar menor que o critério
   adotado. O componente recebeu tamanho explícito de 48 dp, e o teste passou.
 - A exportação integrada dos slides teve limitações de fontes/prévias. O
-  PowerPoint foi preservado, e a renderização local produziu o PDF com fontes
-  incorporadas. Não se afirma revisão dentro do aplicativo PowerPoint.
+  PowerPoint foi preservado, e o PDF final foi exportado pelo LibreOffice
+  Impress com fontes incorporadas. Não se afirma revisão dentro do aplicativo PowerPoint.
 
 ## Limites e o que permanece proposto
 
@@ -68,5 +68,4 @@ do emulador. Não foi feita comparação controlada entre arquiteturas.
 - A demonstração usa dados locais. Não implementa sincronização remota,
   notificações nem os conflitos de uma arquitetura offline-first completa.
 - A compilação no serviço Overleaf não foi executada; os fontes foram compilados
-  localmente e empacotados com todas as dependências específicas do template.
-- Autoria e instituição precisam ser preenchidas pelos responsáveis.
+  localmente com pdfLaTeX e empacotados com todas as dependências específicas do template.

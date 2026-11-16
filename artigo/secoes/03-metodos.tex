@@ -1,0 +1,17 @@
+\section{Materiais e Métodos}\label{sec:metodos}
+O estudo seguiu cinco etapas. (1)~\emph{Seleção}: o projeto deveria ser
+aberto, ter ao menos 200 pull requests, atividade recente e testes alterados
+a partir de 2025; os critérios foram verificados pela API do GitHub em
+15/11/2026. (2)~\emph{Recorte}: fixou-se uma revisão e inspecionaram-se
+estaticamente as jornadas de arquitetura e modularização, o grafo de módulos,
+a funcionalidade For You, repositórios, persistência, sincronização, testes e
+workflow de integração contínua. A suíte original não foi executada.
+(3)~\emph{Análise}: stakeholders, conflitos e vistas foram inferidos dos
+artefatos, sem entrevistas, e o plano GQM foi derivado dessas preocupações.
+(4)~\emph{Implementação}: um aplicativo independente aplicou um subconjunto
+das decisões, com Kotlin, Jetpack Compose, Hilt, Room e Gradle 8.13 (AGP
+8.11.1, JDK~17). (5)~\emph{Avaliação}: as métricas do GQM foram coletadas
+apenas na demonstração, com JUnit, testes instrumentados, um script de
+análise do grafo Gradle, \texttt{am start -W} e \texttt{dumpsys meminfo}, em
+emulador Android~16 (API~36, ARM64) executado em macOS.
+Logs, relatórios e scripts acompanham a entrega.

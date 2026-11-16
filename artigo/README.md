@@ -9,8 +9,7 @@ incluindo classe, estilo bibliográfico, seções, imagens vetoriais e resultado
 
 1. Crie um projeto por upload do arquivo `artigo-cotb2027-overleaf.zip`.
 2. Selecione `main.tex` e o compilador pdfLaTeX.
-3. Preencha somente os dados reais dos autores e da instituição.
-4. Recompile. A revisão acadêmica do conteúdo deve ser feita pelos autores.
+3. Recompile. A revisão acadêmica do conteúdo deve ser feita pelos autores.
 
 Para compilar com TeX Live:
 
@@ -33,7 +32,8 @@ chave aninhada `main=english` para compatibilidade com xkeyval antigo.
 apenas o texto do artigo para aparentar novas medições. O relatório e o plano
 GQM completos estão na documentação complementar.
 
-A compilação local usou Tectonic 0.17.0 e BibTeX. O PDF foi renderizado para
-revisão. A compilação dentro do serviço Overleaf não foi executada. Os arquivos
+A versão final foi compilada com pdfLaTeX e BibTeX (TeX Live 2022), a mesma
+cadeia indicada para o Overleaf, e o PDF foi renderizado para revisão. A
+compilação dentro do próprio serviço Overleaf não foi executada. Os arquivos
 originais de exemplo permanecem em `template-original` para consulta, mas não
 entram no ZIP de submissão.

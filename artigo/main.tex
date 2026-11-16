@@ -1,5 +1,5 @@
 % Arquivo principal para o Overleaf. Compilador: pdfLaTeX.
-% Artigo completo; preencher apenas os dados reais de autoria antes da entrega.
+% Artigo completo — COTB 2027.
 \input{preambulo-cotb}
 \usepackage{tabularx}
 \input{resultados}
@@ -9,16 +9,32 @@
 \title{Software Architecture Analysis of Now in Android}
 \translatedtitle{portuguese}{Análise da Arquitetura de Software do Now in Android}
 
-% Preencher um bloco por autor. Não inferir autoria a partir do computador.
-\author{[Nome completo do autor]}
+\author{Giancarlo Roveda de Jesus}
 \affiliation{%
-  \institution{[Instituição]}
-  \streetaddress{[Endereço]}
-  \city{[Cidade]}
-  \state{[Estado]}
+  \institution{UDESC -- CEAVI}
+  \streetaddress{Rua Dr. Getúlio Vargas, 2822, Bela Vista}
+  \city{Ibirama}
+  \state{SC}
   \country{Brasil}}
-% Descomentar após preencher o endereço real:
-% \email{nome@instituicao.br}
+\email{08131170977@edu.udesc.br}
+
+\author{Daniel Hoepers}
+\affiliation{%
+  \institution{UDESC -- CEAVI}
+  \streetaddress{Rua Dr. Getúlio Vargas, 2822, Bela Vista}
+  \city{Ibirama}
+  \state{SC}
+  \country{Brasil}}
+\email{11616001917@edu.udesc.br}
+
+\author{Guilherme Schroder}
+\affiliation{%
+  \institution{UDESC -- CEAVI}
+  \streetaddress{Rua Dr. Getúlio Vargas, 2822, Bela Vista}
+  \city{Ibirama}
+  \state{SC}
+  \country{Brasil}}
+\email{11705508944@edu.udesc.br}
 
 \begin{abstract}
 This paper examines the software architecture of Now in Android through
@@ -46,21 +62,33 @@ Goal Question Metric}
 \selectlanguage{portuguese}
 
 \input{secoes/01-introducao}
-\input{secoes/02-caracterizacao}
-\input{secoes/03-stakeholders}
-\input{secoes/04-pontos-de-vista}
-\input{secoes/05-gqm}
-\input{secoes/06-arquitetura}
-\input{secoes/07-diagramas}
-\input{secoes/08-projeto-base}
-\input{secoes/09-discussao}
-\input{secoes/10-conclusao}
+\input{secoes/02-fundamentacao}
+\input{secoes/03-metodos}
+\input{secoes/04-caracterizacao}
+\input{secoes/05-stakeholders}
+\input{secoes/06-pontos-de-vista}
+\input{secoes/07-gqm}
+\input{secoes/08-arquitetura}
+\input{secoes/09-diagramas}
+\input{secoes/10-projeto-base}
+\input{secoes/11-discussao}
+\input{secoes/12-conclusao}
+
+\section*{Agradecimentos}
+Os autores agradecem ao professor da disciplina de Arquitetura de Software
+da UDESC -- CEAVI pela orientação e aos mantenedores do Now in Android por
+disponibilizarem o projeto como código aberto.
 
 \section*{Declaração de Uso de Inteligência Artificial}
-O Codex auxiliou a inspeção documental, a redação, a implementação, os testes
-e a preparação de diagramas e apresentação. As evidências de execução foram
-registradas. A revisão e a responsabilidade acadêmica pelo material cabem aos
-autores, que devem conferi-lo antes da submissão.
+Foram utilizadas ferramentas de IA generativa. O Codex (OpenAI) apoiou a
+inspeção documental do NiA, a redação do artigo, a implementação e os testes
+do aplicativo demonstrativo, os scripts de coleta e a preparação dos
+diagramas e da apresentação. O Claude Code (Anthropic) apoiou a revisão do
+material, a redação das Seções~\ref{sec:fundamentacao} e~\ref{sec:metodos}
+e a geração dos PDFs finais. Os valores numéricos provêm dos registros de
+execução que acompanham a entrega. Os autores revisaram integralmente o
+conteúdo gerado e assumem total responsabilidade pela sua precisão,
+originalidade e integridade científica.
 
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{referencias}

@@ -3,9 +3,8 @@
 Entrega integrada sobre o **Now in Android**, com artigo no template COTB 2027,
 aplicativo Android independente, diagramas, apresentação e evidências.
 
-**Antes de entregar:** preencher os nomes e os dados institucionais no artigo
-e no primeiro slide e revisar o conteúdo acadêmico. Os campos de autoria não
-foram inferidos do nome do computador.
+**Autores:** Giancarlo Roveda de Jesus, Daniel Hoepers e Guilherme Schroder —
+UDESC, Centro de Educação Superior do Alto Vale do Itajaí (CEAVI), Ibirama/SC.
 
 ## Arquivos principais
 
